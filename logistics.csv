@@ -1,0 +1,1001 @@
+Shipment_ID,Origin_City,Destination_City,Shipment_Type,Weight_kg,Distance_km,Customer_Segment,On_Time,Weight_Bucket,Distance_Bucket,Route,Delay_Status
+1,Konya,Istanbul,Land,1054.93,1052,Individual,1,Medium,Medium,Konya - Istanbul,On Time
+2,Bursa,Gaziantep,Land,929.03,1811.4,Corporate,0,Medium,Long,Bursa - Gaziantep,Delayed
+3,Gaziantep,Bursa,Air,473.13,1785.3,Individual,1,Light,Long,Gaziantep - Bursa,On Time
+4,Antalya,Bursa,Land,609.87,1644.8,Individual,1,Medium,Long,Antalya - Bursa,On Time
+5,Konya,Antalya,Land,583.49,1044.8,Corporate,0,Medium,Medium,Konya - Antalya,Delayed
+6,Kayseri,Gaziantep,Air,1128.76,1485.7,Individual,1,Medium,Medium,Kayseri - Gaziantep,On Time
+7,Izmir,Antalya,Air,244.31,1050.1,Individual,0,Light,Medium,Izmir - Antalya,Delayed
+8,Konya,Gaziantep,Land,1834,1745.7,Individual,0,Heavy,Long,Konya - Gaziantep,Delayed
+9,Gaziantep,Kayseri,Sea,1442.71,835.4,Individual,1,Heavy,Medium,Gaziantep - Kayseri,On Time
+10,Antalya,Istanbul,Air,805.88,1942,Individual,1,Medium,Long,Antalya - Istanbul,On Time
+11,Bursa,Kayseri,Land,321.46,1868,Individual,1,Light,Long,Bursa - Kayseri,On Time
+12,Gaziantep,Samsun,Air,1764.57,1496.1,Individual,1,Heavy,Medium,Gaziantep - Samsun,On Time
+13,Gaziantep,Adana,Land,1648.44,594.9,Individual,1,Heavy,Short,Gaziantep - Adana,On Time
+14,Izmir,Antalya,Land,1444.83,306.7,Corporate,1,Heavy,Short,Izmir - Antalya,On Time
+15,Adana,Gaziantep,Land,546.74,1716.7,Corporate,1,Medium,Long,Adana - Gaziantep,On Time
+16,Antalya,Samsun,Land,807.88,372.3,Corporate,1,Medium,Short,Antalya - Samsun,On Time
+17,AnLand,Adana,Air,209.98,1715.8,Corporate,1,Light,Long,AnLand - Adana,On Time
+18,Gaziantep,Konya,Land,382.13,1007,Individual,1,Light,Medium,Gaziantep - Konya,On Time
+19,Adana,Istanbul,Air,1567.12,842.8,Corporate,1,Heavy,Medium,Adana - Istanbul,On Time
+20,AnLand,Antalya,Air,1431.5,1811.2,Individual,1,Heavy,Long,AnLand - Antalya,On Time
+21,Antalya,Kayseri,Land,1189,1227.5,Individual,0,Medium,Medium,Antalya - Kayseri,Delayed
+22,Istanbul,Kayseri,Air,1791.97,1174.4,Individual,0,Heavy,Medium,Istanbul - Kayseri,Delayed
+23,Kayseri,Bursa,Land,1168.62,1139.6,Individual,1,Medium,Medium,Kayseri - Bursa,On Time
+24,Adana,Samsun,Land,936.6,773.8,Corporate,0,Medium,Medium,Adana - Samsun,Delayed
+25,Samsun,Konya,Air,684.04,1582,Corporate,1,Medium,Long,Samsun - Konya,On Time
+26,Istanbul,Samsun,Land,1881.19,543,Individual,1,Heavy,Short,Istanbul - Samsun,On Time
+27,Kayseri,Istanbul,Land,170.02,1880.8,Corporate,1,Light,Long,Kayseri - Istanbul,On Time
+28,Izmir,Adana,Land,1862.12,1793.3,Individual,1,Heavy,Long,Izmir - Adana,On Time
+29,Konya,Gaziantep,Land,1654.3,708.1,Individual,0,Heavy,Medium,Konya - Gaziantep,Delayed
+30,Bursa,Izmir,Land,264.21,1472.5,Individual,1,Light,Medium,Bursa - Izmir,On Time
+31,Samsun,Gaziantep,Land,1132.14,1167.8,Individual,1,Medium,Medium,Samsun - Gaziantep,On Time
+32,Izmir,Antalya,Sea,1733.76,708.4,Corporate,1,Heavy,Medium,Izmir - Antalya,On Time
+33,Antalya,Samsun,Land,1145.76,1977.6,Corporate,1,Medium,Long,Antalya - Samsun,On Time
+34,Izmir,Antalya,Land,1814.86,99.2,Corporate,1,Heavy,Short,Izmir - Antalya,On Time
+35,Konya,Samsun,Land,1886.25,542.7,Individual,1,Heavy,Short,Konya - Samsun,On Time
+36,Antalya,Kayseri,Land,847.66,1064.1,Corporate,1,Medium,Medium,Antalya - Kayseri,On Time
+37,Samsun,Bursa,Sea,757.74,1067.8,Individual,1,Medium,Medium,Samsun - Bursa,On Time
+38,Konya,Samsun,Air,1872.96,1198.4,Corporate,1,Heavy,Medium,Konya - Samsun,On Time
+39,AnLand,Antalya,Air,1351.9,1515.8,Individual,1,Heavy,Long,AnLand - Antalya,On Time
+40,Bursa,Kayseri,Land,236.47,1265.8,Individual,1,Light,Medium,Bursa - Kayseri,On Time
+41,Samsun,Izmir,Land,89.37,1220.5,Individual,1,Light,Medium,Samsun - Izmir,On Time
+42,AnLand,Izmir,Land,1131.43,154.4,Individual,1,Medium,Short,AnLand - Izmir,On Time
+43,Kayseri,Bursa,Air,1860.69,784.2,Individual,1,Heavy,Medium,Kayseri - Bursa,On Time
+44,Samsun,Izmir,Land,1689.28,502.5,Individual,1,Heavy,Short,Samsun - Izmir,On Time
+45,Kayseri,Istanbul,Land,1353.32,567.5,Individual,1,Heavy,Short,Kayseri - Istanbul,On Time
+46,Antalya,Adana,Sea,282.54,1131,Individual,0,Light,Medium,Antalya - Adana,Delayed
+47,AnLand,Izmir,Land,512.19,439,Individual,1,Medium,Short,AnLand - Izmir,On Time
+48,Bursa,Konya,Land,1751.64,623.2,Individual,1,Heavy,Short,Bursa - Konya,On Time
+49,Konya,AnLand,Land,369.7,512.3,Individual,0,Light,Short,Konya - AnLand,Delayed
+50,Gaziantep,AnLand,Sea,560.49,1899.6,Individual,1,Medium,Long,Gaziantep - AnLand,On Time
+51,Izmir,Istanbul,Land,263.55,1892.1,Individual,1,Light,Long,Izmir - Istanbul,On Time
+52,Istanbul,Izmir,Air,1353.84,1239.4,Corporate,1,Heavy,Medium,Istanbul - Izmir,On Time
+53,Bursa,Adana,Air,1888.24,1852.8,Corporate,1,Heavy,Long,Bursa - Adana,On Time
+54,AnLand,Gaziantep,Land,541.59,1582.3,Individual,1,Medium,Long,AnLand - Gaziantep,On Time
+55,Gaziantep,Samsun,Air,953.44,1200.4,Corporate,0,Medium,Medium,Gaziantep - Samsun,Delayed
+56,Bursa,Konya,Land,1270.51,62.5,Corporate,1,Heavy,Short,Bursa - Konya,On Time
+57,AnLand,Bursa,Land,1998.94,1556.4,Corporate,1,Heavy,Long,AnLand - Bursa,On Time
+58,Adana,Istanbul,Air,214.09,1419.9,Individual,0,Light,Medium,Adana - Istanbul,Delayed
+59,Adana,Antalya,Air,999.65,1249.7,Individual,0,Medium,Medium,Adana - Antalya,Delayed
+60,Kayseri,Gaziantep,Air,773.31,1532.8,Individual,1,Medium,Long,Kayseri - Gaziantep,On Time
+61,Bursa,Istanbul,Land,1732.31,1050.2,Individual,1,Heavy,Medium,Bursa - Istanbul,On Time
+62,Adana,Istanbul,Land,954.56,1423,Individual,1,Medium,Medium,Adana - Istanbul,On Time
+63,AnLand,Adana,Land,226.4,1873.6,Individual,1,Light,Long,AnLand - Adana,On Time
+64,Kayseri,Gaziantep,Land,1270.68,782.8,Corporate,1,Heavy,Medium,Kayseri - Gaziantep,On Time
+65,AnLand,Istanbul,Land,1542.71,1430.8,Corporate,0,Heavy,Medium,AnLand - Istanbul,Delayed
+66,Kayseri,Antalya,Land,10.75,977.6,Individual,1,Light,Medium,Kayseri - Antalya,On Time
+67,Bursa,Istanbul,Land,1718.62,1365.1,Individual,1,Heavy,Medium,Bursa - Istanbul,On Time
+68,Gaziantep,Konya,Land,376.12,1537.6,Individual,1,Light,Long,Gaziantep - Konya,On Time
+69,Konya,Istanbul,Land,1106.38,138.6,Corporate,1,Medium,Short,Konya - Istanbul,On Time
+70,Samsun,Bursa,Land,834.52,1310.9,Individual,1,Medium,Medium,Samsun - Bursa,On Time
+71,Gaziantep,Samsun,Air,1440.71,492.1,Individual,1,Heavy,Short,Gaziantep - Samsun,On Time
+72,Antalya,Istanbul,Land,745.47,1356.6,Individual,1,Medium,Medium,Antalya - Istanbul,On Time
+73,AnLand,Bursa,Sea,1740.18,963.2,Individual,1,Heavy,Medium,AnLand - Bursa,On Time
+74,Antalya,Adana,Air,1462.34,1558.4,Individual,1,Heavy,Long,Antalya - Adana,On Time
+75,Gaziantep,Adana,Land,1297.19,290.6,Individual,1,Heavy,Short,Gaziantep - Adana,On Time
+76,Kayseri,Gaziantep,Air,1593.5,1271.3,Corporate,1,Heavy,Medium,Kayseri - Gaziantep,On Time
+77,Samsun,Istanbul,Land,1509.28,593,Corporate,1,Heavy,Short,Samsun - Istanbul,On Time
+78,Samsun,Konya,Land,76.7,1713.3,Corporate,1,Light,Long,Samsun - Konya,On Time
+79,Istanbul,Antalya,Land,792.5,1860.3,Corporate,1,Medium,Long,Istanbul - Antalya,On Time
+80,Samsun,Konya,Land,1861.96,1993,Individual,1,Heavy,Long,Samsun - Konya,On Time
+81,Konya,Izmir,Land,255.82,1602.2,Individual,1,Light,Long,Konya - Izmir,On Time
+82,Samsun,Gaziantep,Land,1475.51,1519.8,Corporate,1,Heavy,Long,Samsun - Gaziantep,On Time
+83,Gaziantep,Izmir,Air,1949.31,470.2,Corporate,1,Heavy,Short,Gaziantep - Izmir,On Time
+84,Istanbul,Samsun,Air,109.14,705.2,Individual,0,Light,Medium,Istanbul - Samsun,Delayed
+85,Gaziantep,Konya,Land,1365.98,958.1,Individual,1,Heavy,Medium,Gaziantep - Konya,On Time
+86,Gaziantep,Izmir,Air,938.97,1558.1,Individual,1,Medium,Long,Gaziantep - Izmir,On Time
+87,Izmir,AnLand,Land,1160.45,1834.2,Individual,1,Medium,Long,Izmir - AnLand,On Time
+88,Istanbul,Bursa,Land,175.26,418.8,Individual,1,Light,Short,Istanbul - Bursa,On Time
+89,Gaziantep,Izmir,Air,90.8,1848.6,Individual,0,Light,Long,Gaziantep - Izmir,Delayed
+90,Izmir,AnLand,Land,1335.4,1406.5,Individual,1,Heavy,Medium,Izmir - AnLand,On Time
+91,Izmir,AnLand,Land,1647.5,1241,Individual,1,Heavy,Medium,Izmir - AnLand,On Time
+92,Istanbul,Adana,Land,1565.12,439.7,Corporate,1,Heavy,Short,Istanbul - Adana,On Time
+93,Antalya,Istanbul,Land,1089.89,158.3,Individual,1,Medium,Short,Antalya - Istanbul,On Time
+94,Kayseri,AnLand,Sea,204.23,1158.5,Individual,1,Light,Medium,Kayseri - AnLand,On Time
+95,Konya,Adana,Land,1377.65,1320.5,Individual,1,Heavy,Medium,Konya - Adana,On Time
+96,Kayseri,Izmir,Sea,487.57,461,Corporate,1,Light,Short,Kayseri - Izmir,On Time
+97,Samsun,Bursa,Land,1822.58,1135.1,Individual,1,Heavy,Medium,Samsun - Bursa,On Time
+98,Konya,Istanbul,Land,1677.34,1720.2,Corporate,0,Heavy,Long,Konya - Istanbul,Delayed
+99,Samsun,Gaziantep,Land,1420.22,1678.4,Individual,0,Heavy,Long,Samsun - Gaziantep,Delayed
+100,Gaziantep,Konya,Air,1897.95,1858.3,Corporate,1,Heavy,Long,Gaziantep - Konya,On Time
+101,AnLand,Konya,Land,67.69,763.5,Corporate,1,Light,Medium,AnLand - Konya,On Time
+102,Istanbul,Izmir,Air,1473.72,670.2,Individual,1,Heavy,Short,Istanbul - Izmir,On Time
+103,Konya,Kayseri,Air,663.83,1511.4,Individual,1,Medium,Long,Konya - Kayseri,On Time
+104,Konya,Kayseri,Land,1812.6,890.7,Individual,0,Heavy,Medium,Konya - Kayseri,Delayed
+105,Gaziantep,Izmir,Sea,537.02,220.7,Individual,1,Medium,Short,Gaziantep - Izmir,On Time
+106,Antalya,AnLand,Air,1451.09,601.5,Individual,1,Heavy,Short,Antalya - AnLand,On Time
+107,Izmir,Istanbul,Air,1755.91,866.2,Individual,1,Heavy,Medium,Izmir - Istanbul,On Time
+108,Gaziantep,Konya,Land,88.11,620.4,Individual,1,Light,Short,Gaziantep - Konya,On Time
+109,Adana,Konya,Land,798.31,697.8,Individual,0,Medium,Short,Adana - Konya,Delayed
+110,Izmir,AnLand,Land,1525.81,622.9,Individual,0,Heavy,Short,Izmir - AnLand,Delayed
+111,Istanbul,Konya,Land,912.56,130.9,Individual,1,Medium,Short,Istanbul - Konya,On Time
+112,Izmir,Gaziantep,Land,538.17,1292.3,Individual,1,Medium,Medium,Izmir - Gaziantep,On Time
+113,Antalya,Istanbul,Air,443.51,1214.7,Individual,0,Light,Medium,Antalya - Istanbul,Delayed
+114,Izmir,Samsun,Land,267.38,1324.1,Individual,0,Light,Medium,Izmir - Samsun,Delayed
+115,Istanbul,Konya,Land,1714.97,425,Individual,1,Heavy,Short,Istanbul - Konya,On Time
+116,Antalya,Izmir,Sea,1152.83,626.5,Corporate,1,Medium,Short,Antalya - Izmir,On Time
+117,Kayseri,Gaziantep,Air,157.39,1258.3,Individual,1,Light,Medium,Kayseri - Gaziantep,On Time
+118,Konya,Samsun,Land,768.25,1219.3,Individual,1,Medium,Medium,Konya - Samsun,On Time
+119,Konya,Gaziantep,Air,738.63,1037.3,Individual,0,Medium,Medium,Konya - Gaziantep,Delayed
+120,Samsun,Adana,Land,367.57,733.3,Corporate,1,Light,Medium,Samsun - Adana,On Time
+121,Kayseri,Samsun,Land,873.84,1830.2,Corporate,0,Medium,Long,Kayseri - Samsun,Delayed
+122,Kayseri,Antalya,Air,667.54,712.6,Corporate,1,Medium,Medium,Kayseri - Antalya,On Time
+123,Izmir,Samsun,Land,686.9,938.5,Individual,1,Medium,Medium,Izmir - Samsun,On Time
+124,Konya,Izmir,Land,1479.36,1372.3,Individual,1,Heavy,Medium,Konya - Izmir,On Time
+125,Istanbul,AnLand,Land,450.41,1108.9,Individual,1,Light,Medium,Istanbul - AnLand,On Time
+126,Bursa,Gaziantep,Land,1285.51,726.4,Individual,1,Heavy,Medium,Bursa - Gaziantep,On Time
+127,Bursa,AnLand,Land,1143.45,899.5,Corporate,1,Medium,Medium,Bursa - AnLand,On Time
+128,Antalya,Izmir,Land,1138.34,1599.2,Individual,1,Medium,Long,Antalya - Izmir,On Time
+129,Konya,Gaziantep,Air,1327.7,592.4,Corporate,1,Heavy,Short,Konya - Gaziantep,On Time
+130,Konya,Gaziantep,Air,1099.02,327.4,Individual,1,Medium,Short,Konya - Gaziantep,On Time
+131,Bursa,Kayseri,Land,1759.11,660.7,Corporate,1,Heavy,Short,Bursa - Kayseri,On Time
+132,Konya,Bursa,Land,1352.78,1706.6,Individual,1,Heavy,Long,Konya - Bursa,On Time
+133,Izmir,Antalya,Land,1096.19,223.5,Individual,1,Medium,Short,Izmir - Antalya,On Time
+134,Adana,Kayseri,Land,1660.38,1983.8,Individual,1,Heavy,Long,Adana - Kayseri,On Time
+135,AnLand,Antalya,Air,1214.26,1105,Individual,1,Heavy,Medium,AnLand - Antalya,On Time
+136,Kayseri,Konya,Land,585.83,1970.4,Individual,1,Medium,Long,Kayseri - Konya,On Time
+137,Samsun,AnLand,Land,418.15,1881,Corporate,1,Light,Long,Samsun - AnLand,On Time
+138,Antalya,Konya,Air,308.89,933,Individual,1,Light,Medium,Antalya - Konya,On Time
+139,Adana,Kayseri,Air,1799.41,437.1,Individual,1,Heavy,Short,Adana - Kayseri,On Time
+140,Bursa,Konya,Air,1421.72,371.5,Individual,1,Heavy,Short,Bursa - Konya,On Time
+141,Kayseri,Istanbul,Land,1875.07,518,Individual,1,Heavy,Short,Kayseri - Istanbul,On Time
+142,Konya,Adana,Land,1208.57,1434.8,Corporate,1,Heavy,Medium,Konya - Adana,On Time
+143,Samsun,Antalya,Land,949.43,582.3,Corporate,1,Medium,Short,Samsun - Antalya,On Time
+144,Konya,Izmir,Land,124.13,715.8,Corporate,1,Light,Medium,Konya - Izmir,On Time
+145,Istanbul,Izmir,Air,1344.93,925.1,Corporate,1,Heavy,Medium,Istanbul - Izmir,On Time
+146,Istanbul,Bursa,Air,1166.51,1830.8,Corporate,1,Medium,Long,Istanbul - Bursa,On Time
+147,Samsun,AnLand,Air,1980.47,419.3,Individual,1,Heavy,Short,Samsun - AnLand,On Time
+148,Samsun,AnLand,Air,482.12,59.8,Corporate,1,Light,Short,Samsun - AnLand,On Time
+149,Bursa,Istanbul,Land,1063.82,167.2,Individual,1,Medium,Short,Bursa - Istanbul,On Time
+150,Samsun,Antalya,Air,1303.66,1814.3,Individual,1,Heavy,Long,Samsun - Antalya,On Time
+151,Izmir,Bursa,Land,1290.96,1312.7,Individual,1,Heavy,Medium,Izmir - Bursa,On Time
+152,Konya,Kayseri,Land,1124.78,582.4,Corporate,1,Medium,Short,Konya - Kayseri,On Time
+153,Adana,AnLand,Land,1554.97,395.5,Corporate,1,Heavy,Short,Adana - AnLand,On Time
+154,Gaziantep,Izmir,Land,413.94,623.8,Individual,1,Light,Short,Gaziantep - Izmir,On Time
+155,Samsun,Konya,Land,1452.63,273.9,Corporate,1,Heavy,Short,Samsun - Konya,On Time
+156,Antalya,Konya,Sea,1241.37,1886,Corporate,1,Heavy,Long,Antalya - Konya,On Time
+157,Istanbul,Bursa,Land,1792.67,1579.2,Individual,1,Heavy,Long,Istanbul - Bursa,On Time
+158,Izmir,Antalya,Land,1695.15,951.7,Individual,1,Heavy,Medium,Izmir - Antalya,On Time
+159,Kayseri,Antalya,Land,633.72,1736.7,Corporate,1,Medium,Long,Kayseri - Antalya,On Time
+160,Gaziantep,Adana,Air,556.09,536.4,Individual,1,Medium,Short,Gaziantep - Adana,On Time
+161,Adana,Samsun,Land,1963.4,1448.4,Individual,1,Heavy,Medium,Adana - Samsun,On Time
+162,Gaziantep,AnLand,Air,1056.89,1719.5,Individual,1,Medium,Long,Gaziantep - AnLand,On Time
+163,Samsun,Antalya,Land,1813.31,745.7,Individual,1,Heavy,Medium,Samsun - Antalya,On Time
+164,Bursa,Izmir,Air,331.94,1527.1,Corporate,0,Light,Long,Bursa - Izmir,Delayed
+165,Istanbul,Bursa,Land,1287.42,625.4,Individual,1,Heavy,Short,Istanbul - Bursa,On Time
+166,Istanbul,Kayseri,Air,1620.67,632.8,Corporate,1,Heavy,Short,Istanbul - Kayseri,On Time
+167,Kayseri,Adana,Air,1895.05,258.8,Corporate,0,Heavy,Short,Kayseri - Adana,Delayed
+168,Bursa,Gaziantep,Land,677.99,908.1,Corporate,1,Medium,Medium,Bursa - Gaziantep,On Time
+169,Konya,Istanbul,Land,1451.34,1472.9,Individual,1,Heavy,Medium,Konya - Istanbul,On Time
+170,AnLand,Kayseri,Land,1079.93,1883.4,Individual,1,Medium,Long,AnLand - Kayseri,On Time
+171,Izmir,Gaziantep,Land,125.95,1227.4,Individual,1,Light,Medium,Izmir - Gaziantep,On Time
+172,Istanbul,Konya,Land,1381.55,1733.1,Individual,1,Heavy,Long,Istanbul - Konya,On Time
+173,Antalya,Istanbul,Air,1381.74,1653.9,Corporate,1,Heavy,Long,Antalya - Istanbul,On Time
+174,Istanbul,AnLand,Land,1861.56,388,Individual,1,Heavy,Short,Istanbul - AnLand,On Time
+175,Gaziantep,Izmir,Land,997.14,997.3,Individual,1,Medium,Medium,Gaziantep - Izmir,On Time
+176,Istanbul,Bursa,Land,464.35,278,Individual,0,Light,Short,Istanbul - Bursa,Delayed
+177,Istanbul,Samsun,Land,93.9,1380.2,Corporate,0,Light,Medium,Istanbul - Samsun,Delayed
+178,AnLand,Gaziantep,Air,834.21,1902.3,Corporate,1,Medium,Long,AnLand - Gaziantep,On Time
+179,AnLand,Gaziantep,Land,607.32,317.3,Individual,1,Medium,Short,AnLand - Gaziantep,On Time
+180,Adana,Samsun,Air,1523.37,1481.1,Corporate,1,Heavy,Medium,Adana - Samsun,On Time
+181,Konya,Gaziantep,Air,711.76,1282.9,Individual,0,Medium,Medium,Konya - Gaziantep,Delayed
+182,Antalya,Samsun,Air,1898.4,1188,Individual,1,Heavy,Medium,Antalya - Samsun,On Time
+183,Istanbul,Adana,Air,1924.81,810.7,Corporate,1,Heavy,Medium,Istanbul - Adana,On Time
+184,Istanbul,Adana,Land,1243.71,742.5,Individual,1,Heavy,Medium,Istanbul - Adana,On Time
+185,Izmir,Bursa,Sea,1857.68,138.2,Corporate,1,Heavy,Short,Izmir - Bursa,On Time
+186,AnLand,Kayseri,Land,1522.9,474.9,Individual,1,Heavy,Short,AnLand - Kayseri,On Time
+187,Antalya,Kayseri,Land,1095.98,79.6,Individual,1,Medium,Short,Antalya - Kayseri,On Time
+188,Kayseri,AnLand,Air,364.71,1183.8,Corporate,1,Light,Medium,Kayseri - AnLand,On Time
+189,Adana,Konya,Sea,919.9,256.4,Individual,1,Medium,Short,Adana - Konya,On Time
+190,Konya,Antalya,Air,1123.94,1752.4,Corporate,1,Medium,Long,Konya - Antalya,On Time
+191,Bursa,Adana,Land,1728.6,1070.1,Corporate,1,Heavy,Medium,Bursa - Adana,On Time
+192,Konya,AnLand,Land,965.26,1414.4,Individual,0,Medium,Medium,Konya - AnLand,Delayed
+193,Gaziantep,Antalya,Sea,1795.86,851.2,Individual,0,Heavy,Medium,Gaziantep - Antalya,Delayed
+194,Istanbul,Kayseri,Land,1350.33,1143.1,Individual,0,Heavy,Medium,Istanbul - Kayseri,Delayed
+195,Adana,Bursa,Air,278.31,1888.2,Individual,0,Light,Long,Adana - Bursa,Delayed
+196,Gaziantep,Samsun,Air,1989.99,211.3,Individual,1,Heavy,Short,Gaziantep - Samsun,On Time
+197,Antalya,Adana,Land,1056.83,545.2,Individual,1,Medium,Short,Antalya - Adana,On Time
+198,Bursa,AnLand,Land,786.76,1571,Individual,1,Medium,Long,Bursa - AnLand,On Time
+199,AnLand,Istanbul,Land,1319.93,242.5,Individual,0,Heavy,Short,AnLand - Istanbul,Delayed
+200,Adana,Antalya,Land,222.24,197.5,Corporate,1,Light,Short,Adana - Antalya,On Time
+201,Adana,Samsun,Air,1274.89,755,Corporate,1,Heavy,Medium,Adana - Samsun,On Time
+202,Istanbul,Adana,Land,998.98,229.7,Corporate,1,Medium,Short,Istanbul - Adana,On Time
+203,Samsun,Kayseri,Air,816.31,1190.9,Individual,1,Medium,Medium,Samsun - Kayseri,On Time
+204,Adana,Konya,Land,1906.27,491.2,Corporate,1,Heavy,Short,Adana - Konya,On Time
+205,Izmir,Antalya,Sea,1047.47,1796.6,Individual,1,Medium,Long,Izmir - Antalya,On Time
+206,Bursa,Kayseri,Land,442.14,1577.8,Corporate,1,Light,Long,Bursa - Kayseri,On Time
+207,Bursa,Adana,Land,920.63,1414.4,Corporate,1,Medium,Medium,Bursa - Adana,On Time
+208,Izmir,Antalya,Land,1839.18,1253,Individual,1,Heavy,Medium,Izmir - Antalya,On Time
+209,Kayseri,Samsun,Air,356.31,1733.8,Individual,1,Light,Long,Kayseri - Samsun,On Time
+210,Izmir,Adana,Air,431.84,485,Corporate,0,Light,Short,Izmir - Adana,Delayed
+211,Izmir,Gaziantep,Air,30.99,1752.6,Corporate,1,Light,Long,Izmir - Gaziantep,On Time
+212,Bursa,AnLand,Land,33.31,1589.5,Corporate,1,Light,Long,Bursa - AnLand,On Time
+213,Konya,Samsun,Land,1659.64,1508.9,Individual,1,Heavy,Long,Konya - Samsun,On Time
+214,Bursa,Antalya,Land,1465.58,1144.4,Individual,1,Heavy,Medium,Bursa - Antalya,On Time
+215,Samsun,Konya,Land,713.31,530.2,Individual,1,Medium,Short,Samsun - Konya,On Time
+216,Istanbul,Kayseri,Land,1398.13,875.9,Corporate,1,Heavy,Medium,Istanbul - Kayseri,On Time
+217,Gaziantep,Istanbul,Sea,793.44,1597.5,Individual,1,Medium,Long,Gaziantep - Istanbul,On Time
+218,Konya,Kayseri,Sea,1906.03,112,Corporate,1,Heavy,Short,Konya - Kayseri,On Time
+219,AnLand,Antalya,Sea,1934.27,1575,Individual,1,Heavy,Long,AnLand - Antalya,On Time
+220,Gaziantep,Kayseri,Air,788.62,518.1,Individual,1,Medium,Short,Gaziantep - Kayseri,On Time
+221,Istanbul,AnLand,Land,1709.17,331.4,Individual,1,Heavy,Short,Istanbul - AnLand,On Time
+222,Samsun,Adana,Land,1547.31,275.6,Corporate,1,Heavy,Short,Samsun - Adana,On Time
+223,Samsun,Istanbul,Land,623.45,103.1,Individual,1,Medium,Short,Samsun - Istanbul,On Time
+224,AnLand,Izmir,Air,467.92,1071,Individual,0,Light,Medium,AnLand - Izmir,Delayed
+225,Konya,Antalya,Land,919.18,475.6,Individual,1,Medium,Short,Konya - Antalya,On Time
+226,Kayseri,Bursa,Land,1563.79,1979.4,Individual,1,Heavy,Long,Kayseri - Bursa,On Time
+227,Izmir,Konya,Land,1920.53,1170.2,Individual,1,Heavy,Medium,Izmir - Konya,On Time
+228,Konya,Kayseri,Land,1528.34,318.9,Corporate,1,Heavy,Short,Konya - Kayseri,On Time
+229,Kayseri,Antalya,Air,1711.14,1393.1,Individual,1,Heavy,Medium,Kayseri - Antalya,On Time
+230,Samsun,Gaziantep,Air,1208.11,1800.6,Individual,1,Heavy,Long,Samsun - Gaziantep,On Time
+231,Bursa,Kayseri,Land,1671.64,1503.1,Corporate,1,Heavy,Long,Bursa - Kayseri,On Time
+232,Istanbul,Samsun,Sea,1569.92,199.1,Corporate,1,Heavy,Short,Istanbul - Samsun,On Time
+233,AnLand,Konya,Air,757.09,1797,Individual,1,Medium,Long,AnLand - Konya,On Time
+234,Istanbul,Gaziantep,Land,1106.22,1598.2,Individual,1,Medium,Long,Istanbul - Gaziantep,On Time
+235,Antalya,Izmir,Land,1610.48,358.7,Corporate,1,Heavy,Short,Antalya - Izmir,On Time
+236,Antalya,Adana,Land,96.88,151,Corporate,1,Light,Short,Antalya - Adana,On Time
+237,Konya,AnLand,Land,1617.12,1136.8,Corporate,0,Heavy,Medium,Konya - AnLand,Delayed
+238,Samsun,Konya,Sea,359.89,354.3,Individual,1,Light,Short,Samsun - Konya,On Time
+239,Samsun,Gaziantep,Land,1031.79,1677.5,Individual,1,Medium,Long,Samsun - Gaziantep,On Time
+240,Izmir,Adana,Air,1617.51,748.8,Corporate,1,Heavy,Medium,Izmir - Adana,On Time
+241,Izmir,Adana,Land,511.37,1830.1,Individual,1,Medium,Long,Izmir - Adana,On Time
+242,Izmir,Antalya,Land,495.39,1153.1,Individual,1,Light,Medium,Izmir - Antalya,On Time
+243,Bursa,Gaziantep,Land,808.51,406.2,Corporate,1,Medium,Short,Bursa - Gaziantep,On Time
+244,Gaziantep,Istanbul,Land,1789.81,322.2,Individual,1,Heavy,Short,Gaziantep - Istanbul,On Time
+245,Adana,Kayseri,Land,5.88,1174.1,Individual,1,Light,Medium,Adana - Kayseri,On Time
+246,Gaziantep,Bursa,Sea,1803.26,1535.7,Individual,0,Heavy,Long,Gaziantep - Bursa,Delayed
+247,Istanbul,Bursa,Land,311.85,1573.9,Individual,1,Light,Long,Istanbul - Bursa,On Time
+248,Gaziantep,Izmir,Air,1980.22,587.7,Individual,1,Heavy,Short,Gaziantep - Izmir,On Time
+249,Bursa,Izmir,Land,1909.92,448.3,Corporate,0,Heavy,Short,Bursa - Izmir,Delayed
+250,Istanbul,Bursa,Land,991.88,82.7,Individual,1,Medium,Short,Istanbul - Bursa,On Time
+251,Gaziantep,Istanbul,Land,1027.88,1374.4,Individual,1,Medium,Medium,Gaziantep - Istanbul,On Time
+252,Bursa,AnLand,Land,965.69,199.3,Corporate,1,Medium,Short,Bursa - AnLand,On Time
+253,Adana,Samsun,Land,1272.71,870.5,Individual,0,Heavy,Medium,Adana - Samsun,Delayed
+254,Gaziantep,Kayseri,Land,185.99,1223.3,Individual,1,Light,Medium,Gaziantep - Kayseri,On Time
+255,Bursa,AnLand,Land,70.07,1877.4,Corporate,1,Light,Long,Bursa - AnLand,On Time
+256,Izmir,Antalya,Land,120.12,658,Corporate,1,Light,Short,Izmir - Antalya,On Time
+257,Samsun,Antalya,Land,891.51,537.1,Individual,1,Medium,Short,Samsun - Antalya,On Time
+258,Izmir,Samsun,Land,554.72,1325.6,Corporate,1,Medium,Medium,Izmir - Samsun,On Time
+259,Samsun,Gaziantep,Sea,1245.97,1257.5,Individual,1,Heavy,Medium,Samsun - Gaziantep,On Time
+260,AnLand,Istanbul,Air,1984.92,697.6,Corporate,1,Heavy,Short,AnLand - Istanbul,On Time
+261,AnLand,Istanbul,Land,775.71,1859.8,Individual,1,Medium,Long,AnLand - Istanbul,On Time
+262,AnLand,Samsun,Land,1149.81,1697.5,Corporate,1,Medium,Long,AnLand - Samsun,On Time
+263,Adana,Gaziantep,Sea,834.13,486.8,Individual,0,Medium,Short,Adana - Gaziantep,Delayed
+264,Izmir,Kayseri,Air,1695.31,516.3,Individual,0,Heavy,Short,Izmir - Kayseri,Delayed
+265,Samsun,Adana,Land,1804.96,1049,Individual,1,Heavy,Medium,Samsun - Adana,On Time
+266,Bursa,Konya,Air,1755.32,1558.5,Individual,1,Heavy,Long,Bursa - Konya,On Time
+267,Istanbul,Izmir,Land,1948.87,135.9,Corporate,1,Heavy,Short,Istanbul - Izmir,On Time
+268,Bursa,Izmir,Land,59.9,1402,Individual,1,Light,Medium,Bursa - Izmir,On Time
+269,Istanbul,AnLand,Air,1680.43,1314.1,Individual,1,Heavy,Medium,Istanbul - AnLand,On Time
+270,Antalya,Istanbul,Land,1504.79,501.4,Individual,1,Heavy,Short,Antalya - Istanbul,On Time
+271,Bursa,Izmir,Sea,461.25,1378.6,Individual,0,Light,Medium,Bursa - Izmir,Delayed
+272,Gaziantep,Adana,Air,1912.86,1883.4,Corporate,1,Heavy,Long,Gaziantep - Adana,On Time
+273,Gaziantep,AnLand,Land,300.61,141.2,Corporate,1,Light,Short,Gaziantep - AnLand,On Time
+274,Konya,Izmir,Land,1360.7,673.3,Individual,1,Heavy,Short,Konya - Izmir,On Time
+275,Izmir,Antalya,Land,453.66,904.4,Corporate,1,Light,Medium,Izmir - Antalya,On Time
+276,Istanbul,Adana,Land,865.6,1803.6,Corporate,1,Medium,Long,Istanbul - Adana,On Time
+277,Istanbul,AnLand,Air,1439.72,1926.4,Individual,1,Heavy,Long,Istanbul - AnLand,On Time
+278,Izmir,Kayseri,Land,1128.83,916,Individual,1,Medium,Medium,Izmir - Kayseri,On Time
+279,Adana,Samsun,Land,857.87,1512.6,Corporate,0,Medium,Long,Adana - Samsun,Delayed
+280,Konya,Adana,Air,656.05,1086.7,Individual,1,Medium,Medium,Konya - Adana,On Time
+281,Adana,Istanbul,Land,1680.12,1098.7,Corporate,0,Heavy,Medium,Adana - Istanbul,Delayed
+282,Adana,Gaziantep,Air,291.91,592.3,Individual,1,Light,Short,Adana - Gaziantep,On Time
+283,Adana,Izmir,Land,863.06,473.1,Individual,1,Medium,Short,Adana - Izmir,On Time
+284,Izmir,Gaziantep,Sea,1808,611.6,Individual,1,Heavy,Short,Izmir - Gaziantep,On Time
+285,Adana,Antalya,Land,1692.47,1134.8,Individual,1,Heavy,Medium,Adana - Antalya,On Time
+286,Gaziantep,Istanbul,Land,804.88,106.9,Corporate,1,Medium,Short,Gaziantep - Istanbul,On Time
+287,AnLand,Konya,Land,1527.4,1819.1,Individual,1,Heavy,Long,AnLand - Konya,On Time
+288,Antalya,Samsun,Land,1647.21,354.8,Individual,1,Heavy,Short,Antalya - Samsun,On Time
+289,Istanbul,Adana,Air,1778.33,479.2,Corporate,1,Heavy,Short,Istanbul - Adana,On Time
+290,Istanbul,Adana,Air,1091.29,1060.6,Individual,1,Medium,Medium,Istanbul - Adana,On Time
+291,Antalya,Gaziantep,Air,412.9,1434.7,Individual,1,Light,Medium,Antalya - Gaziantep,On Time
+292,Izmir,Samsun,Land,514.34,236.7,Corporate,1,Medium,Short,Izmir - Samsun,On Time
+293,Bursa,AnLand,Land,594.91,669.5,Corporate,1,Medium,Short,Bursa - AnLand,On Time
+294,Izmir,Samsun,Land,1189.64,1938.9,Individual,1,Medium,Long,Izmir - Samsun,On Time
+295,Istanbul,Kayseri,Land,70.46,561.6,Individual,0,Light,Short,Istanbul - Kayseri,Delayed
+296,Istanbul,Samsun,Air,1273.9,660.4,Individual,1,Heavy,Short,Istanbul - Samsun,On Time
+297,Antalya,Kayseri,Land,731.89,1681.2,Individual,1,Medium,Long,Antalya - Kayseri,On Time
+298,Adana,Kayseri,Land,594.01,147.9,Individual,1,Medium,Short,Adana - Kayseri,On Time
+299,Izmir,Konya,Land,1759.6,956,Individual,1,Heavy,Medium,Izmir - Konya,On Time
+300,Samsun,Istanbul,Air,922.7,790.3,Individual,1,Medium,Medium,Samsun - Istanbul,On Time
+301,Antalya,Konya,Air,194.63,667.3,Individual,0,Light,Short,Antalya - Konya,Delayed
+302,Gaziantep,Kayseri,Air,1654.36,607.1,Individual,0,Heavy,Short,Gaziantep - Kayseri,Delayed
+303,Istanbul,Antalya,Land,100.04,228.2,Individual,1,Light,Short,Istanbul - Antalya,On Time
+304,Antalya,Adana,Land,1454.86,663.9,Corporate,1,Heavy,Short,Antalya - Adana,On Time
+305,Izmir,Kayseri,Air,1548.94,134,Corporate,1,Heavy,Short,Izmir - Kayseri,On Time
+306,Istanbul,Konya,Air,708.44,1572.9,Individual,1,Medium,Long,Istanbul - Konya,On Time
+307,Bursa,Antalya,Land,1650.45,826.5,Individual,1,Heavy,Medium,Bursa - Antalya,On Time
+308,Antalya,Konya,Air,1033.74,915.6,Individual,1,Medium,Medium,Antalya - Konya,On Time
+309,Konya,Samsun,Air,929.27,1792.5,Individual,1,Medium,Long,Konya - Samsun,On Time
+310,Istanbul,Izmir,Air,95.58,1333.2,Individual,1,Light,Medium,Istanbul - Izmir,On Time
+311,Izmir,Gaziantep,Air,583.61,65.7,Individual,1,Medium,Short,Izmir - Gaziantep,On Time
+312,AnLand,Gaziantep,Land,1862.36,1889.2,Individual,1,Heavy,Long,AnLand - Gaziantep,On Time
+313,Samsun,Konya,Land,786.69,512.4,Corporate,0,Medium,Short,Samsun - Konya,Delayed
+314,Kayseri,AnLand,Land,1095.67,259.8,Individual,1,Medium,Short,Kayseri - AnLand,On Time
+315,Adana,Bursa,Air,1066.38,1547.8,Individual,0,Medium,Long,Adana - Bursa,Delayed
+316,Kayseri,Konya,Air,1182.91,1025.9,Corporate,1,Medium,Medium,Kayseri - Konya,On Time
+317,Izmir,Samsun,Air,127.36,895.9,Individual,1,Light,Medium,Izmir - Samsun,On Time
+318,Gaziantep,AnLand,Land,727.54,536.5,Individual,0,Medium,Short,Gaziantep - AnLand,Delayed
+319,Gaziantep,Kayseri,Air,1447.64,1117.6,Individual,1,Heavy,Medium,Gaziantep - Kayseri,On Time
+320,AnLand,Konya,Air,405.12,585,Individual,1,Light,Short,AnLand - Konya,On Time
+321,Adana,Istanbul,Air,411.14,1808.1,Corporate,1,Light,Long,Adana - Istanbul,On Time
+322,Konya,Gaziantep,Air,25.13,469.6,Individual,1,Light,Short,Konya - Gaziantep,On Time
+323,AnLand,Izmir,Air,877.78,1774.5,Individual,1,Medium,Long,AnLand - Izmir,On Time
+324,Kayseri,AnLand,Land,1766.06,1140.8,Individual,0,Heavy,Medium,Kayseri - AnLand,Delayed
+325,AnLand,Izmir,Land,108.54,1665.6,Individual,0,Light,Long,AnLand - Izmir,Delayed
+326,Kayseri,Antalya,Land,386.28,1440,Corporate,0,Light,Medium,Kayseri - Antalya,Delayed
+327,Istanbul,Gaziantep,Land,623.62,1408.6,Corporate,1,Medium,Medium,Istanbul - Gaziantep,On Time
+328,Gaziantep,Kayseri,Air,1464.79,682.5,Individual,1,Heavy,Short,Gaziantep - Kayseri,On Time
+329,Istanbul,Konya,Air,1283.07,506.1,Individual,1,Heavy,Short,Istanbul - Konya,On Time
+330,Samsun,Konya,Land,834.81,461.2,Individual,0,Medium,Short,Samsun - Konya,Delayed
+331,Adana,Konya,Land,1519.34,1721.5,Corporate,1,Heavy,Long,Adana - Konya,On Time
+332,Konya,Gaziantep,Air,1221.21,1649.8,Individual,1,Heavy,Long,Konya - Gaziantep,On Time
+333,Kayseri,Istanbul,Land,1792.6,909.1,Individual,1,Heavy,Medium,Kayseri - Istanbul,On Time
+334,Konya,Bursa,Land,1636.96,308.2,Individual,1,Heavy,Short,Konya - Bursa,On Time
+335,Kayseri,Adana,Land,509.36,795.4,Individual,1,Medium,Medium,Kayseri - Adana,On Time
+336,Izmir,Samsun,Land,546.52,1257.7,Individual,0,Medium,Medium,Izmir - Samsun,Delayed
+337,AnLand,Kayseri,Land,255.09,936.1,Individual,0,Light,Medium,AnLand - Kayseri,Delayed
+338,Samsun,Istanbul,Land,677.24,1571.4,Individual,1,Medium,Long,Samsun - Istanbul,On Time
+339,Gaziantep,Kayseri,Land,1999.09,1995.4,Individual,1,Heavy,Long,Gaziantep - Kayseri,On Time
+340,Kayseri,AnLand,Air,814.47,422.7,Individual,0,Medium,Short,Kayseri - AnLand,Delayed
+341,Konya,Gaziantep,Land,444.87,946.3,Corporate,1,Light,Medium,Konya - Gaziantep,On Time
+342,Samsun,Izmir,Air,1526.15,890.4,Individual,1,Heavy,Medium,Samsun - Izmir,On Time
+343,Bursa,Kayseri,Land,1087.23,643.8,Individual,1,Medium,Short,Bursa - Kayseri,On Time
+344,Bursa,AnLand,Land,303.45,436.3,Individual,1,Light,Short,Bursa - AnLand,On Time
+345,Istanbul,Konya,Air,764.48,178.1,Individual,1,Medium,Short,Istanbul - Konya,On Time
+346,Gaziantep,AnLand,Land,831.87,1779.9,Individual,1,Medium,Long,Gaziantep - AnLand,On Time
+347,Izmir,Bursa,Land,1508.89,868.7,Corporate,1,Heavy,Medium,Izmir - Bursa,On Time
+348,Konya,Gaziantep,Land,46.24,1018.9,Individual,1,Light,Medium,Konya - Gaziantep,On Time
+349,AnLand,Bursa,Air,541.69,1838,Corporate,0,Medium,Long,AnLand - Bursa,Delayed
+350,AnLand,Istanbul,Land,1037.6,1563.8,Individual,1,Medium,Long,AnLand - Istanbul,On Time
+351,Konya,Antalya,Land,541.35,304.5,Individual,1,Medium,Short,Konya - Antalya,On Time
+352,Adana,Samsun,Air,1258.73,1152.6,Individual,1,Heavy,Medium,Adana - Samsun,On Time
+353,Izmir,Gaziantep,Land,966.33,912.4,Individual,1,Medium,Medium,Izmir - Gaziantep,On Time
+354,Samsun,Adana,Air,726.61,1604.6,Corporate,1,Medium,Long,Samsun - Adana,On Time
+355,Kayseri,Adana,Air,1898.67,1462.3,Corporate,0,Heavy,Medium,Kayseri - Adana,Delayed
+356,Adana,Samsun,Sea,1266.16,1396.3,Corporate,1,Heavy,Medium,Adana - Samsun,On Time
+357,Kayseri,Konya,Land,264.23,714.1,Corporate,1,Light,Medium,Kayseri - Konya,On Time
+358,Kayseri,Bursa,Air,1122.38,1619.7,Corporate,1,Medium,Long,Kayseri - Bursa,On Time
+359,Adana,Antalya,Land,1562.56,152.2,Individual,1,Heavy,Short,Adana - Antalya,On Time
+360,Istanbul,Adana,Land,1418.44,361.3,Individual,1,Heavy,Short,Istanbul - Adana,On Time
+361,Bursa,Istanbul,Land,348.32,704.5,Individual,0,Light,Medium,Bursa - Istanbul,Delayed
+362,Kayseri,Izmir,Air,1944.98,199.8,Individual,0,Heavy,Short,Kayseri - Izmir,Delayed
+363,Adana,Gaziantep,Land,900.38,508.2,Corporate,1,Medium,Short,Adana - Gaziantep,On Time
+364,Adana,AnLand,Land,322.25,1668.8,Individual,0,Light,Long,Adana - AnLand,Delayed
+365,Antalya,Bursa,Land,364.49,1899.1,Individual,1,Light,Long,Antalya - Bursa,On Time
+366,Istanbul,AnLand,Air,200.98,644,Individual,1,Light,Short,Istanbul - AnLand,On Time
+367,Gaziantep,Antalya,Air,1608.02,565.8,Individual,1,Heavy,Short,Gaziantep - Antalya,On Time
+368,Antalya,Samsun,Air,248.45,595.8,Individual,1,Light,Short,Antalya - Samsun,On Time
+369,Antalya,Istanbul,Land,254.62,591.6,Individual,1,Light,Short,Antalya - Istanbul,On Time
+370,Konya,Antalya,Land,1701.69,120.1,Individual,0,Heavy,Short,Konya - Antalya,Delayed
+371,Bursa,Samsun,Air,692.49,1857.5,Individual,1,Medium,Long,Bursa - Samsun,On Time
+372,Adana,Istanbul,Land,66.56,466.7,Individual,1,Light,Short,Adana - Istanbul,On Time
+373,Bursa,Samsun,Land,108.53,869,Individual,1,Light,Medium,Bursa - Samsun,On Time
+374,Izmir,Gaziantep,Air,288.63,68.9,Individual,1,Light,Short,Izmir - Gaziantep,On Time
+375,Konya,Bursa,Sea,430.72,1723,Individual,1,Light,Long,Konya - Bursa,On Time
+376,Gaziantep,Kayseri,Air,1331.97,1475.8,Individual,1,Heavy,Medium,Gaziantep - Kayseri,On Time
+377,Bursa,Antalya,Air,318.87,1896.2,Individual,1,Light,Long,Bursa - Antalya,On Time
+378,AnLand,Antalya,Sea,242.15,1574.2,Individual,1,Light,Long,AnLand - Antalya,On Time
+379,Kayseri,Adana,Land,1530.61,661.7,Individual,1,Heavy,Short,Kayseri - Adana,On Time
+380,Izmir,Konya,Land,1343.76,533.4,Individual,1,Heavy,Short,Izmir - Konya,On Time
+381,Istanbul,Gaziantep,Sea,873.47,1410.5,Individual,1,Medium,Medium,Istanbul - Gaziantep,On Time
+382,Gaziantep,Izmir,Land,1100.87,760,Individual,1,Medium,Medium,Gaziantep - Izmir,On Time
+383,Izmir,AnLand,Air,627.41,1154.1,Corporate,1,Medium,Medium,Izmir - AnLand,On Time
+384,Kayseri,Samsun,Land,967.59,62.2,Individual,1,Medium,Short,Kayseri - Samsun,On Time
+385,Konya,Kayseri,Land,1015.81,170.7,Corporate,1,Medium,Short,Konya - Kayseri,On Time
+386,Kayseri,Bursa,Air,777.54,1094,Individual,0,Medium,Medium,Kayseri - Bursa,Delayed
+387,Antalya,Bursa,Sea,1813.61,1153.8,Individual,1,Heavy,Medium,Antalya - Bursa,On Time
+388,Kayseri,Gaziantep,Air,37.04,1515.3,Individual,0,Light,Long,Kayseri - Gaziantep,Delayed
+389,Antalya,Bursa,Land,1565.43,307.3,Individual,1,Heavy,Short,Antalya - Bursa,On Time
+390,Konya,Adana,Air,253.14,1050.7,Individual,1,Light,Medium,Konya - Adana,On Time
+391,Samsun,Antalya,Land,1596.11,429.2,Individual,1,Heavy,Short,Samsun - Antalya,On Time
+392,Antalya,Izmir,Land,1233.74,231.7,Individual,0,Heavy,Short,Antalya - Izmir,Delayed
+393,Istanbul,Kayseri,Land,1687.34,850.5,Individual,1,Heavy,Medium,Istanbul - Kayseri,On Time
+394,Kayseri,AnLand,Land,199.54,368.5,Individual,1,Light,Short,Kayseri - AnLand,On Time
+395,Kayseri,Samsun,Land,1120.17,482.5,Individual,0,Medium,Short,Kayseri - Samsun,Delayed
+396,Istanbul,Kayseri,Sea,1004.67,669.2,Individual,1,Medium,Short,Istanbul - Kayseri,On Time
+397,AnLand,Samsun,Air,1413.86,555.8,Individual,1,Heavy,Short,AnLand - Samsun,On Time
+398,Adana,Istanbul,Air,1070.91,220.8,Corporate,1,Medium,Short,Adana - Istanbul,On Time
+399,Samsun,Kayseri,Land,1083.77,225.3,Corporate,1,Medium,Short,Samsun - Kayseri,On Time
+400,Gaziantep,Izmir,Sea,862.04,426.8,Corporate,1,Medium,Short,Gaziantep - Izmir,On Time
+401,Antalya,Gaziantep,Sea,621.12,148.6,Individual,1,Medium,Short,Antalya - Gaziantep,On Time
+402,Istanbul,Adana,Air,967.12,1271.6,Corporate,1,Medium,Medium,Istanbul - Adana,On Time
+403,Konya,Antalya,Land,241.39,610.3,Corporate,1,Light,Short,Konya - Antalya,On Time
+404,Antalya,Istanbul,Land,1923.22,595.5,Individual,0,Heavy,Short,Antalya - Istanbul,Delayed
+405,Adana,Bursa,Land,1430.25,697.4,Individual,0,Heavy,Short,Adana - Bursa,Delayed
+406,Konya,Kayseri,Land,1905.17,1342.5,Corporate,1,Heavy,Medium,Konya - Kayseri,On Time
+407,Izmir,Istanbul,Land,457.32,1747.7,Individual,1,Light,Long,Izmir - Istanbul,On Time
+408,Kayseri,Samsun,Sea,1759.29,1530.2,Individual,1,Heavy,Long,Kayseri - Samsun,On Time
+409,Izmir,Adana,Land,1618.54,1468.7,Individual,1,Heavy,Medium,Izmir - Adana,On Time
+410,Antalya,Bursa,Land,1355.92,994.6,Individual,1,Heavy,Medium,Antalya - Bursa,On Time
+411,Adana,Kayseri,Land,1251.93,1402.9,Corporate,1,Heavy,Medium,Adana - Kayseri,On Time
+412,Samsun,Istanbul,Land,636.52,1127.9,Individual,1,Medium,Medium,Samsun - Istanbul,On Time
+413,Antalya,Kayseri,Land,1633.74,471.7,Individual,1,Heavy,Short,Antalya - Kayseri,On Time
+414,Istanbul,Izmir,Land,1005.52,456.7,Individual,1,Medium,Short,Istanbul - Izmir,On Time
+415,Bursa,AnLand,Land,146.43,628,Individual,0,Light,Short,Bursa - AnLand,Delayed
+416,Antalya,AnLand,Air,629.16,1826.1,Individual,1,Medium,Long,Antalya - AnLand,On Time
+417,Kayseri,Istanbul,Sea,1870.92,1117.5,Individual,1,Heavy,Medium,Kayseri - Istanbul,On Time
+418,Kayseri,Gaziantep,Land,1702.11,1481.1,Corporate,1,Heavy,Medium,Kayseri - Gaziantep,On Time
+419,Antalya,Izmir,Land,1963.9,725.8,Individual,1,Heavy,Medium,Antalya - Izmir,On Time
+420,Konya,Izmir,Air,1257.85,845,Individual,1,Heavy,Medium,Konya - Izmir,On Time
+421,Bursa,Adana,Land,498.78,294.9,Individual,1,Light,Short,Bursa - Adana,On Time
+422,Istanbul,Gaziantep,Land,329.82,384,Individual,1,Light,Short,Istanbul - Gaziantep,On Time
+423,Antalya,Samsun,Air,377.89,1663.3,Corporate,1,Light,Long,Antalya - Samsun,On Time
+424,Konya,Samsun,Land,44.49,1190.4,Corporate,1,Light,Medium,Konya - Samsun,On Time
+425,Kayseri,Bursa,Air,784.41,708.2,Corporate,1,Medium,Medium,Kayseri - Bursa,On Time
+426,Kayseri,Antalya,Land,386.9,1615.6,Individual,0,Light,Long,Kayseri - Antalya,Delayed
+427,Adana,AnLand,Land,826.25,530.7,Individual,1,Medium,Short,Adana - AnLand,On Time
+428,Antalya,Samsun,Land,1870.31,1953.3,Individual,1,Heavy,Long,Antalya - Samsun,On Time
+429,Bursa,Gaziantep,Air,863.93,722.4,Individual,0,Medium,Medium,Bursa - Gaziantep,Delayed
+430,AnLand,Izmir,Land,1756.58,707.8,Corporate,1,Heavy,Medium,AnLand - Izmir,On Time
+431,Bursa,Samsun,Land,1212.98,658.2,Corporate,1,Heavy,Short,Bursa - Samsun,On Time
+432,Kayseri,Izmir,Air,498.03,288.1,Corporate,1,Light,Short,Kayseri - Izmir,On Time
+433,Kayseri,Samsun,Land,714.93,266.7,Corporate,1,Medium,Short,Kayseri - Samsun,On Time
+434,Izmir,AnLand,Land,172.42,1313.8,Corporate,1,Light,Medium,Izmir - AnLand,On Time
+435,Kayseri,Adana,Air,670.26,1756.5,Individual,1,Medium,Long,Kayseri - Adana,On Time
+436,Istanbul,Samsun,Land,1356.69,1591.5,Individual,0,Heavy,Long,Istanbul - Samsun,Delayed
+437,Gaziantep,AnLand,Air,148.86,325.2,Individual,0,Light,Short,Gaziantep - AnLand,Delayed
+438,Antalya,Samsun,Air,414.78,1113.9,Individual,1,Light,Medium,Antalya - Samsun,On Time
+439,Bursa,Antalya,Air,765.97,255.9,Individual,1,Medium,Short,Bursa - Antalya,On Time
+440,Gaziantep,AnLand,Land,1964.19,138.3,Individual,1,Heavy,Short,Gaziantep - AnLand,On Time
+441,Konya,Gaziantep,Sea,1570.8,1330,Corporate,1,Heavy,Medium,Konya - Gaziantep,On Time
+442,AnLand,Adana,Land,1468.31,1093.5,Individual,1,Heavy,Medium,AnLand - Adana,On Time
+443,Istanbul,Gaziantep,Air,236.8,209.9,Corporate,1,Light,Short,Istanbul - Gaziantep,On Time
+444,Bursa,Antalya,Land,1563.09,118.1,Corporate,0,Heavy,Short,Bursa - Antalya,Delayed
+445,Gaziantep,Kayseri,Land,1571.61,1980,Individual,0,Heavy,Long,Gaziantep - Kayseri,Delayed
+446,AnLand,Konya,Land,1204.2,108.5,Individual,1,Heavy,Short,AnLand - Konya,On Time
+447,Izmir,Adana,Sea,1980.77,916.8,Individual,1,Heavy,Medium,Izmir - Adana,On Time
+448,Istanbul,Antalya,Sea,653.88,1034,Corporate,1,Medium,Medium,Istanbul - Antalya,On Time
+449,Istanbul,Antalya,Land,1882.84,278.7,Corporate,1,Heavy,Short,Istanbul - Antalya,On Time
+450,Izmir,Istanbul,Land,1829.89,379.7,Corporate,1,Heavy,Short,Izmir - Istanbul,On Time
+451,Antalya,AnLand,Air,27.9,736,Individual,1,Light,Medium,Antalya - AnLand,On Time
+452,Izmir,Gaziantep,Land,902.98,1535.3,Individual,1,Medium,Long,Izmir - Gaziantep,On Time
+453,Istanbul,Izmir,Land,1954.32,1038.8,Individual,1,Heavy,Medium,Istanbul - Izmir,On Time
+454,Istanbul,Kayseri,Air,210.73,1293.9,Corporate,1,Light,Medium,Istanbul - Kayseri,On Time
+455,Gaziantep,Izmir,Land,1097.83,1971.1,Individual,1,Medium,Long,Gaziantep - Izmir,On Time
+456,Kayseri,Gaziantep,Sea,1958.02,1547.6,Individual,1,Heavy,Long,Kayseri - Gaziantep,On Time
+457,AnLand,Gaziantep,Land,1113.21,897,Individual,1,Medium,Medium,AnLand - Gaziantep,On Time
+458,Izmir,AnLand,Land,383.68,920.6,Individual,1,Light,Medium,Izmir - AnLand,On Time
+459,AnLand,Gaziantep,Land,1166.46,1256.6,Individual,0,Medium,Medium,AnLand - Gaziantep,Delayed
+460,Izmir,Istanbul,Air,412.86,1347.5,Individual,1,Light,Medium,Izmir - Istanbul,On Time
+461,Konya,Adana,Land,1041.81,1026.4,Individual,1,Medium,Medium,Konya - Adana,On Time
+462,Istanbul,Gaziantep,Air,152.71,1307.5,Individual,1,Light,Medium,Istanbul - Gaziantep,On Time
+463,Kayseri,Izmir,Land,1212.94,95.9,Corporate,1,Heavy,Short,Kayseri - Izmir,On Time
+464,Gaziantep,Konya,Air,1036,887.8,Corporate,1,Medium,Medium,Gaziantep - Konya,On Time
+465,Kayseri,Istanbul,Land,1481.62,593.9,Individual,1,Heavy,Short,Kayseri - Istanbul,On Time
+466,Kayseri,Samsun,Land,1263.25,301.9,Corporate,1,Heavy,Short,Kayseri - Samsun,On Time
+467,Kayseri,Samsun,Air,1101.46,244.1,Individual,1,Medium,Short,Kayseri - Samsun,On Time
+468,AnLand,Antalya,Land,1381.11,1226.2,Individual,1,Heavy,Medium,AnLand - Antalya,On Time
+469,Izmir,Kayseri,Land,292.16,1071,Corporate,1,Light,Medium,Izmir - Kayseri,On Time
+470,Samsun,Bursa,Air,1192.74,544.5,Corporate,1,Medium,Short,Samsun - Bursa,On Time
+471,Konya,Adana,Land,348.36,968.4,Corporate,1,Light,Medium,Konya - Adana,On Time
+472,Bursa,Konya,Air,1851.42,1009.9,Individual,1,Heavy,Medium,Bursa - Konya,On Time
+473,Kayseri,Antalya,Land,141.33,430.3,Individual,1,Light,Short,Kayseri - Antalya,On Time
+474,Antalya,Kayseri,Air,863.6,1321.6,Corporate,1,Medium,Medium,Antalya - Kayseri,On Time
+475,AnLand,Samsun,Land,1393.12,1572.8,Individual,0,Heavy,Long,AnLand - Samsun,Delayed
+476,Gaziantep,Izmir,Land,918.75,1593.4,Individual,1,Medium,Long,Gaziantep - Izmir,On Time
+477,Bursa,Konya,Sea,188.73,1224.8,Corporate,0,Light,Medium,Bursa - Konya,Delayed
+478,Samsun,Kayseri,Air,1108.99,1047.7,Corporate,0,Medium,Medium,Samsun - Kayseri,Delayed
+479,Antalya,Kayseri,Land,1285.06,169,Corporate,1,Heavy,Short,Antalya - Kayseri,On Time
+480,Samsun,Antalya,Land,1409.07,611.3,Individual,1,Heavy,Short,Samsun - Antalya,On Time
+481,Bursa,Konya,Air,749.65,231.9,Corporate,1,Medium,Short,Bursa - Konya,On Time
+482,Kayseri,AnLand,Land,1129.5,1929.5,Individual,0,Medium,Long,Kayseri - AnLand,Delayed
+483,Antalya,Bursa,Air,904.12,313.4,Individual,1,Medium,Short,Antalya - Bursa,On Time
+484,Samsun,AnLand,Air,1345.75,346,Individual,1,Heavy,Short,Samsun - AnLand,On Time
+485,Gaziantep,Konya,Land,1169.2,1784.7,Individual,1,Medium,Long,Gaziantep - Konya,On Time
+486,Izmir,AnLand,Land,1053.88,1890.7,Individual,1,Medium,Long,Izmir - AnLand,On Time
+487,Istanbul,Bursa,Air,502.8,1543.4,Individual,1,Medium,Long,Istanbul - Bursa,On Time
+488,Izmir,Samsun,Land,9.03,60.5,Individual,1,Light,Short,Izmir - Samsun,On Time
+489,Bursa,Istanbul,Land,352.29,52.6,Individual,1,Light,Short,Bursa - Istanbul,On Time
+490,AnLand,Gaziantep,Sea,238.55,787.3,Individual,0,Light,Medium,AnLand - Gaziantep,Delayed
+491,Istanbul,AnLand,Land,900.92,329.6,Individual,1,Medium,Short,Istanbul - AnLand,On Time
+492,Konya,Gaziantep,Air,1226.46,85.9,Individual,1,Heavy,Short,Konya - Gaziantep,On Time
+493,Gaziantep,Izmir,Land,430.1,954.9,Corporate,1,Light,Medium,Gaziantep - Izmir,On Time
+494,Konya,Adana,Land,1878.42,1889,Corporate,1,Heavy,Long,Konya - Adana,On Time
+495,Antalya,Izmir,Land,18.33,681.4,Individual,1,Light,Short,Antalya - Izmir,On Time
+496,Istanbul,Konya,Land,1545.74,1339.2,Corporate,1,Heavy,Medium,Istanbul - Konya,On Time
+497,Konya,Kayseri,Land,1252.28,1321.9,Individual,1,Heavy,Medium,Konya - Kayseri,On Time
+498,Konya,Samsun,Land,750.24,539.6,Individual,1,Medium,Short,Konya - Samsun,On Time
+499,Samsun,AnLand,Air,105.73,1318.3,Corporate,1,Light,Medium,Samsun - AnLand,On Time
+500,Izmir,Antalya,Land,1256.84,464.1,Individual,1,Heavy,Short,Izmir - Antalya,On Time
+501,Samsun,Adana,Land,774.3,287.9,Corporate,1,Medium,Short,Samsun - Adana,On Time
+502,Istanbul,Bursa,Land,1872.85,1417.7,Individual,1,Heavy,Medium,Istanbul - Bursa,On Time
+503,Istanbul,Bursa,Land,1086.27,271.2,Corporate,1,Medium,Short,Istanbul - Bursa,On Time
+504,Bursa,Gaziantep,Land,1879.6,1994,Individual,1,Heavy,Long,Bursa - Gaziantep,On Time
+505,Samsun,AnLand,Land,444.86,407.7,Individual,1,Light,Short,Samsun - AnLand,On Time
+506,Adana,Bursa,Land,1452.82,1208.6,Individual,1,Heavy,Medium,Adana - Bursa,On Time
+507,Izmir,Istanbul,Land,1236.41,852.2,Corporate,0,Heavy,Medium,Izmir - Istanbul,Delayed
+508,Istanbul,Adana,Land,1480.12,296.5,Individual,0,Heavy,Short,Istanbul - Adana,Delayed
+509,Bursa,Istanbul,Air,433.26,104.3,Corporate,1,Light,Short,Bursa - Istanbul,On Time
+510,Samsun,Kayseri,Land,1331.66,1264.3,Individual,1,Heavy,Medium,Samsun - Kayseri,On Time
+511,Izmir,Adana,Land,998.59,1623.2,Individual,1,Medium,Long,Izmir - Adana,On Time
+512,Samsun,Istanbul,Air,1486.94,1691.9,Individual,1,Heavy,Long,Samsun - Istanbul,On Time
+513,Konya,Adana,Land,657.45,991.3,Individual,1,Medium,Medium,Konya - Adana,On Time
+514,Bursa,Kayseri,Air,1780.66,1566,Corporate,1,Heavy,Long,Bursa - Kayseri,On Time
+515,Izmir,Gaziantep,Land,173.18,1362.1,Individual,1,Light,Medium,Izmir - Gaziantep,On Time
+516,Kayseri,AnLand,Land,1615.34,1462.3,Individual,1,Heavy,Medium,Kayseri - AnLand,On Time
+517,Antalya,AnLand,Land,1723.33,1010.6,Individual,1,Heavy,Medium,Antalya - AnLand,On Time
+518,Antalya,Bursa,Land,1635.42,1285.2,Individual,1,Heavy,Medium,Antalya - Bursa,On Time
+519,Izmir,Istanbul,Air,1027.89,1620.8,Corporate,1,Medium,Long,Izmir - Istanbul,On Time
+520,Samsun,Bursa,Land,879.58,825.9,Individual,1,Medium,Medium,Samsun - Bursa,On Time
+521,Bursa,Konya,Air,1992.54,1621.7,Individual,1,Heavy,Long,Bursa - Konya,On Time
+522,Antalya,Istanbul,Land,462.2,1204.4,Corporate,1,Light,Medium,Antalya - Istanbul,On Time
+523,Bursa,Adana,Land,1096.02,373.5,Corporate,1,Medium,Short,Bursa - Adana,On Time
+524,Antalya,Izmir,Land,1343,98.1,Individual,1,Heavy,Short,Antalya - Izmir,On Time
+525,Konya,Kayseri,Land,1403.23,757.4,Individual,1,Heavy,Medium,Konya - Kayseri,On Time
+526,Samsun,Konya,Land,412.03,1116.1,Individual,1,Light,Medium,Samsun - Konya,On Time
+527,Konya,Kayseri,Air,1309.72,1687.6,Individual,1,Heavy,Long,Konya - Kayseri,On Time
+528,Antalya,AnLand,Air,1637.65,298.6,Corporate,0,Heavy,Short,Antalya - AnLand,Delayed
+529,Kayseri,AnLand,Land,104.79,1610.4,Individual,1,Light,Long,Kayseri - AnLand,On Time
+530,Kayseri,Bursa,Air,1823.48,1732.9,Individual,1,Heavy,Long,Kayseri - Bursa,On Time
+531,Konya,Istanbul,Sea,63.86,343.8,Individual,1,Light,Short,Konya - Istanbul,On Time
+532,Kayseri,Izmir,Air,715.16,1710.6,Individual,1,Medium,Long,Kayseri - Izmir,On Time
+533,Antalya,Samsun,Land,36.55,1983.3,Individual,1,Light,Long,Antalya - Samsun,On Time
+534,Izmir,Konya,Air,158.9,1467.3,Individual,1,Light,Medium,Izmir - Konya,On Time
+535,Konya,AnLand,Land,1822.78,1580.3,Individual,1,Heavy,Long,Konya - AnLand,On Time
+536,AnLand,Bursa,Sea,712.95,1989.1,Individual,1,Medium,Long,AnLand - Bursa,On Time
+537,Samsun,AnLand,Land,852.42,1230.7,Individual,1,Medium,Medium,Samsun - AnLand,On Time
+538,Kayseri,Bursa,Land,434.61,650.4,Individual,0,Light,Short,Kayseri - Bursa,Delayed
+539,Kayseri,Adana,Air,1196.21,1683.2,Individual,1,Medium,Long,Kayseri - Adana,On Time
+540,Istanbul,Izmir,Land,1191.63,1248.2,Individual,1,Medium,Medium,Istanbul - Izmir,On Time
+541,Adana,Istanbul,Sea,747.54,1183.3,Individual,1,Medium,Medium,Adana - Istanbul,On Time
+542,Konya,Gaziantep,Sea,669.4,544.6,Individual,1,Medium,Short,Konya - Gaziantep,On Time
+543,Gaziantep,Antalya,Air,1770.5,1524.9,Individual,1,Heavy,Long,Gaziantep - Antalya,On Time
+544,Kayseri,Antalya,Land,769.65,209.3,Individual,1,Medium,Short,Kayseri - Antalya,On Time
+545,Samsun,Bursa,Air,989.53,1852.4,Corporate,0,Medium,Long,Samsun - Bursa,Delayed
+546,AnLand,Adana,Land,570.19,685.4,Corporate,1,Medium,Short,AnLand - Adana,On Time
+547,Kayseri,Izmir,Land,1574.61,299.2,Corporate,1,Heavy,Short,Kayseri - Izmir,On Time
+548,AnLand,Samsun,Air,797.91,912.6,Individual,1,Medium,Medium,AnLand - Samsun,On Time
+549,Antalya,Samsun,Land,1029.65,132.8,Corporate,1,Medium,Short,Antalya - Samsun,On Time
+550,Antalya,Izmir,Land,510.45,1385,Individual,1,Medium,Medium,Antalya - Izmir,On Time
+551,Adana,Istanbul,Sea,1975.38,1810.3,Individual,1,Heavy,Long,Adana - Istanbul,On Time
+552,Izmir,Kayseri,Land,586.53,1682.7,Individual,1,Medium,Long,Izmir - Kayseri,On Time
+553,Gaziantep,Adana,Land,1542.63,298.4,Corporate,1,Heavy,Short,Gaziantep - Adana,On Time
+554,Istanbul,AnLand,Sea,857.85,296.2,Individual,1,Medium,Short,Istanbul - AnLand,On Time
+555,Adana,Izmir,Land,416.4,1636.2,Individual,0,Light,Long,Adana - Izmir,Delayed
+556,Bursa,Istanbul,Air,1600.44,1852.3,Corporate,1,Heavy,Long,Bursa - Istanbul,On Time
+557,Istanbul,Samsun,Sea,670.55,948.3,Corporate,1,Medium,Medium,Istanbul - Samsun,On Time
+558,Konya,Gaziantep,Sea,1731.06,1023,Individual,1,Heavy,Medium,Konya - Gaziantep,On Time
+559,Samsun,AnLand,Air,1830.94,670.6,Individual,1,Heavy,Short,Samsun - AnLand,On Time
+560,Bursa,Gaziantep,Land,1720.35,1793.8,Individual,1,Heavy,Long,Bursa - Gaziantep,On Time
+561,Bursa,Samsun,Land,74.84,1307.6,Corporate,1,Light,Medium,Bursa - Samsun,On Time
+562,Adana,Istanbul,Air,1575.81,612.1,Individual,0,Heavy,Short,Adana - Istanbul,Delayed
+563,Izmir,Antalya,Air,825.62,632.6,Individual,1,Medium,Short,Izmir - Antalya,On Time
+564,Adana,Gaziantep,Land,1748.08,1787.8,Corporate,1,Heavy,Long,Adana - Gaziantep,On Time
+565,Konya,AnLand,Land,1277.72,76.6,Individual,1,Heavy,Short,Konya - AnLand,On Time
+566,Kayseri,Bursa,Land,1668.12,679.3,Individual,1,Heavy,Short,Kayseri - Bursa,On Time
+567,Kayseri,Konya,Land,1001.37,1131,Individual,1,Medium,Medium,Kayseri - Konya,On Time
+568,Izmir,Kayseri,Air,1072.38,339,Individual,1,Medium,Short,Izmir - Kayseri,On Time
+569,Konya,Antalya,Land,293.05,229.6,Individual,1,Light,Short,Konya - Antalya,On Time
+570,Izmir,Gaziantep,Sea,1569.05,1639.8,Individual,1,Heavy,Long,Izmir - Gaziantep,On Time
+571,AnLand,Kayseri,Air,841.68,1794.1,Individual,0,Medium,Long,AnLand - Kayseri,Delayed
+572,Kayseri,Izmir,Land,1002.66,1656,Individual,1,Medium,Long,Kayseri - Izmir,On Time
+573,Bursa,Gaziantep,Air,1571.27,1802.6,Individual,1,Heavy,Long,Bursa - Gaziantep,On Time
+574,Gaziantep,Samsun,Land,1199.7,1128.6,Corporate,0,Medium,Medium,Gaziantep - Samsun,Delayed
+575,Samsun,Konya,Land,406.19,1633.9,Corporate,1,Light,Long,Samsun - Konya,On Time
+576,Konya,Istanbul,Air,1182.51,798.9,Individual,1,Medium,Medium,Konya - Istanbul,On Time
+577,Istanbul,Bursa,Air,818.23,1349.2,Individual,0,Medium,Medium,Istanbul - Bursa,Delayed
+578,Izmir,Bursa,Air,941.7,1978.2,Individual,1,Medium,Long,Izmir - Bursa,On Time
+579,Samsun,Gaziantep,Land,61.48,490.2,Corporate,1,Light,Short,Samsun - Gaziantep,On Time
+580,Istanbul,Adana,Land,424.01,810.3,Individual,1,Light,Medium,Istanbul - Adana,On Time
+581,Samsun,AnLand,Air,565.67,986.1,Corporate,1,Medium,Medium,Samsun - AnLand,On Time
+582,Gaziantep,Adana,Land,1427.36,319.1,Individual,1,Heavy,Short,Gaziantep - Adana,On Time
+583,Istanbul,Adana,Land,27.93,208,Corporate,1,Light,Short,Istanbul - Adana,On Time
+584,Adana,Antalya,Land,820.51,1668,Corporate,1,Medium,Long,Adana - Antalya,On Time
+585,Antalya,Konya,Air,1848.43,1954.7,Corporate,1,Heavy,Long,Antalya - Konya,On Time
+586,Adana,AnLand,Land,228.2,839.2,Individual,1,Light,Medium,Adana - AnLand,On Time
+587,Kayseri,Gaziantep,Air,1035.27,220.9,Individual,1,Medium,Short,Kayseri - Gaziantep,On Time
+588,Antalya,Gaziantep,Sea,1574.11,178.3,Individual,0,Heavy,Short,Antalya - Gaziantep,Delayed
+589,Adana,Istanbul,Land,1885.35,1788.1,Individual,1,Heavy,Long,Adana - Istanbul,On Time
+590,Antalya,Gaziantep,Land,1494.82,954.4,Individual,0,Heavy,Medium,Antalya - Gaziantep,Delayed
+591,Antalya,Samsun,Land,1442.53,674.1,Individual,1,Heavy,Short,Antalya - Samsun,On Time
+592,Bursa,AnLand,Air,1653.84,979.1,Individual,1,Heavy,Medium,Bursa - AnLand,On Time
+593,Izmir,AnLand,Land,895.17,670.7,Individual,1,Medium,Short,Izmir - AnLand,On Time
+594,Izmir,Adana,Land,1612.66,1003.6,Individual,1,Heavy,Medium,Izmir - Adana,On Time
+595,Bursa,Samsun,Land,20.89,1726.1,Individual,1,Light,Long,Bursa - Samsun,On Time
+596,Samsun,Istanbul,Air,1849.5,1205,Corporate,1,Heavy,Medium,Samsun - Istanbul,On Time
+597,AnLand,Adana,Land,889.4,1404.6,Individual,1,Medium,Medium,AnLand - Adana,On Time
+598,Samsun,Kayseri,Air,1108.99,761.1,Individual,1,Medium,Medium,Samsun - Kayseri,On Time
+599,Istanbul,Gaziantep,Sea,513.49,1490.1,Individual,1,Medium,Medium,Istanbul - Gaziantep,On Time
+600,Istanbul,Adana,Land,1486.35,1349.9,Corporate,1,Heavy,Medium,Istanbul - Adana,On Time
+601,Antalya,Izmir,Air,157.89,283.1,Individual,1,Light,Short,Antalya - Izmir,On Time
+602,Adana,Gaziantep,Land,1745.91,1166.7,Individual,1,Heavy,Medium,Adana - Gaziantep,On Time
+603,Adana,Samsun,Air,1657.09,550.6,Individual,1,Heavy,Short,Adana - Samsun,On Time
+604,Izmir,Istanbul,Air,436.04,1618,Individual,1,Light,Long,Izmir - Istanbul,On Time
+605,Konya,Samsun,Air,1619.6,880.6,Individual,1,Heavy,Medium,Konya - Samsun,On Time
+606,Samsun,Adana,Land,1573.78,1989.6,Corporate,0,Heavy,Long,Samsun - Adana,Delayed
+607,Kayseri,Adana,Land,1266.27,230.4,Corporate,1,Heavy,Short,Kayseri - Adana,On Time
+608,Gaziantep,Bursa,Land,750.17,1571.7,Individual,1,Medium,Long,Gaziantep - Bursa,On Time
+609,Adana,Istanbul,Land,546.64,1363.7,Individual,1,Medium,Medium,Adana - Istanbul,On Time
+610,Gaziantep,Kayseri,Land,467.41,1546.6,Individual,0,Light,Long,Gaziantep - Kayseri,Delayed
+611,Antalya,Gaziantep,Land,640.62,649.7,Individual,1,Medium,Short,Antalya - Gaziantep,On Time
+612,Gaziantep,AnLand,Land,1807.6,1009.5,Individual,0,Heavy,Medium,Gaziantep - AnLand,Delayed
+613,Kayseri,Istanbul,Land,159.89,1603.2,Individual,1,Light,Long,Kayseri - Istanbul,On Time
+614,Bursa,AnLand,Air,1658.6,503.5,Corporate,1,Heavy,Short,Bursa - AnLand,On Time
+615,Kayseri,Istanbul,Land,701.04,490.8,Corporate,0,Medium,Short,Kayseri - Istanbul,Delayed
+616,Gaziantep,Istanbul,Land,1045.59,1124.5,Individual,1,Medium,Medium,Gaziantep - Istanbul,On Time
+617,Kayseri,Samsun,Land,1590,1070.9,Individual,1,Heavy,Medium,Kayseri - Samsun,On Time
+618,AnLand,Istanbul,Land,1769.33,600.4,Individual,1,Heavy,Short,AnLand - Istanbul,On Time
+619,Antalya,Bursa,Sea,692.84,631.2,Individual,0,Medium,Short,Antalya - Bursa,Delayed
+620,Samsun,Kayseri,Land,926.38,591.8,Individual,1,Medium,Short,Samsun - Kayseri,On Time
+621,Bursa,Adana,Air,831.96,1554.4,Individual,1,Medium,Long,Bursa - Adana,On Time
+622,Adana,Konya,Sea,31.44,1321.2,Corporate,1,Light,Medium,Adana - Konya,On Time
+623,Istanbul,AnLand,Air,595.41,1673.2,Corporate,1,Medium,Long,Istanbul - AnLand,On Time
+624,Samsun,Adana,Air,921.08,1952.2,Individual,0,Medium,Long,Samsun - Adana,Delayed
+625,Istanbul,Konya,Air,825.13,974.6,Individual,1,Medium,Medium,Istanbul - Konya,On Time
+626,Antalya,Kayseri,Sea,1445.25,180.1,Individual,1,Heavy,Short,Antalya - Kayseri,On Time
+627,Bursa,Kayseri,Air,772.68,143.8,Individual,0,Medium,Short,Bursa - Kayseri,Delayed
+628,Izmir,AnLand,Land,981.31,626.5,Individual,1,Medium,Short,Izmir - AnLand,On Time
+629,Adana,AnLand,Air,862.07,1868.5,Individual,1,Medium,Long,Adana - AnLand,On Time
+630,AnLand,Kayseri,Land,1482.55,1070.3,Individual,1,Heavy,Medium,AnLand - Kayseri,On Time
+631,Izmir,Konya,Air,1726.63,580,Individual,1,Heavy,Short,Izmir - Konya,On Time
+632,Antalya,Istanbul,Land,1066.12,828.4,Corporate,1,Medium,Medium,Antalya - Istanbul,On Time
+633,Samsun,Gaziantep,Land,1579.92,1217.3,Individual,1,Heavy,Medium,Samsun - Gaziantep,On Time
+634,AnLand,Izmir,Land,597.09,1323.3,Individual,1,Medium,Medium,AnLand - Izmir,On Time
+635,Kayseri,Adana,Land,1085.03,350.1,Individual,1,Medium,Short,Kayseri - Adana,On Time
+636,Gaziantep,Samsun,Land,693.73,1955.2,Individual,1,Medium,Long,Gaziantep - Samsun,On Time
+637,AnLand,Adana,Land,831.33,1112.3,Individual,1,Medium,Medium,AnLand - Adana,On Time
+638,Antalya,Samsun,Land,1466.17,314.6,Corporate,1,Heavy,Short,Antalya - Samsun,On Time
+639,Konya,AnLand,Land,1763.92,1792.6,Corporate,1,Heavy,Long,Konya - AnLand,On Time
+640,Gaziantep,Samsun,Air,247.38,195.5,Individual,0,Light,Short,Gaziantep - Samsun,Delayed
+641,Istanbul,AnLand,Land,1271.11,1820.1,Individual,1,Heavy,Long,Istanbul - AnLand,On Time
+642,Adana,Gaziantep,Land,1166.38,1993.3,Individual,1,Medium,Long,Adana - Gaziantep,On Time
+643,Istanbul,Gaziantep,Air,241.24,1415.8,Individual,1,Light,Medium,Istanbul - Gaziantep,On Time
+644,AnLand,Adana,Land,427.73,1552.4,Corporate,1,Light,Long,AnLand - Adana,On Time
+645,Istanbul,Bursa,Land,625.45,707.7,Individual,1,Medium,Medium,Istanbul - Bursa,On Time
+646,Antalya,Konya,Air,338.03,1886.1,Individual,1,Light,Long,Antalya - Konya,On Time
+647,Kayseri,Bursa,Air,491.24,1082.9,Individual,1,Light,Medium,Kayseri - Bursa,On Time
+648,Samsun,Bursa,Land,538.86,1478.2,Individual,0,Medium,Medium,Samsun - Bursa,Delayed
+649,Adana,Izmir,Land,674.67,1852,Corporate,1,Medium,Long,Adana - Izmir,On Time
+650,Istanbul,Kayseri,Sea,1500.03,1951.6,Individual,1,Heavy,Long,Istanbul - Kayseri,On Time
+651,Istanbul,Adana,Air,1145.96,1674.7,Corporate,1,Medium,Long,Istanbul - Adana,On Time
+652,AnLand,Kayseri,Land,1972.56,640.9,Individual,1,Heavy,Short,AnLand - Kayseri,On Time
+653,Samsun,Izmir,Air,832.4,1934.8,Corporate,1,Medium,Long,Samsun - Izmir,On Time
+654,Izmir,Samsun,Land,1508.96,1274.8,Individual,1,Heavy,Medium,Izmir - Samsun,On Time
+655,Istanbul,Kayseri,Land,1743.58,1864.8,Individual,1,Heavy,Long,Istanbul - Kayseri,On Time
+656,Antalya,AnLand,Land,1359.56,1368.4,Corporate,1,Heavy,Medium,Antalya - AnLand,On Time
+657,Konya,Adana,Air,826.67,649.1,Individual,1,Medium,Short,Konya - Adana,On Time
+658,Adana,Konya,Land,1508.42,771.5,Individual,1,Heavy,Medium,Adana - Konya,On Time
+659,Istanbul,Samsun,Air,411.32,1123.4,Individual,1,Light,Medium,Istanbul - Samsun,On Time
+660,Antalya,Izmir,Land,658.47,1590.5,Corporate,1,Medium,Long,Antalya - Izmir,On Time
+661,Antalya,Kayseri,Land,1095.64,670.1,Individual,1,Medium,Short,Antalya - Kayseri,On Time
+662,Adana,Izmir,Land,1152.94,1180.5,Corporate,1,Medium,Medium,Adana - Izmir,On Time
+663,Izmir,Konya,Air,49.17,724,Individual,1,Light,Medium,Izmir - Konya,On Time
+664,Antalya,Bursa,Land,1890.5,1640.8,Individual,0,Heavy,Long,Antalya - Bursa,Delayed
+665,Konya,Gaziantep,Land,1394.77,960.1,Corporate,1,Heavy,Medium,Konya - Gaziantep,On Time
+666,Antalya,Konya,Air,993.93,199.6,Individual,1,Medium,Short,Antalya - Konya,On Time
+667,Antalya,Adana,Land,1866.59,373.8,Corporate,1,Heavy,Short,Antalya - Adana,On Time
+668,Antalya,Konya,Sea,881,169.2,Corporate,1,Medium,Short,Antalya - Konya,On Time
+669,Kayseri,Izmir,Land,1960.97,1023.6,Individual,1,Heavy,Medium,Kayseri - Izmir,On Time
+670,Kayseri,AnLand,Air,1027.01,257.4,Individual,0,Medium,Short,Kayseri - AnLand,Delayed
+671,Izmir,Adana,Land,233,272.6,Individual,1,Light,Short,Izmir - Adana,On Time
+672,Istanbul,AnLand,Sea,1530.78,1885,Corporate,0,Heavy,Long,Istanbul - AnLand,Delayed
+673,Antalya,Izmir,Land,1359.4,1751.7,Corporate,0,Heavy,Long,Antalya - Izmir,Delayed
+674,Samsun,Adana,Land,1547.11,931.6,Individual,1,Heavy,Medium,Samsun - Adana,On Time
+675,Istanbul,Antalya,Land,1903.13,1972.3,Individual,1,Heavy,Long,Istanbul - Antalya,On Time
+676,Izmir,Gaziantep,Land,1554.1,50.4,Individual,1,Heavy,Short,Izmir - Gaziantep,On Time
+677,Bursa,Samsun,Land,1224.62,1247.3,Corporate,1,Heavy,Medium,Bursa - Samsun,On Time
+678,Istanbul,Izmir,Sea,1715.33,1252,Individual,0,Heavy,Medium,Istanbul - Izmir,Delayed
+679,Istanbul,Kayseri,Land,1348.13,942,Individual,1,Heavy,Medium,Istanbul - Kayseri,On Time
+680,Gaziantep,Izmir,Air,819.2,824,Individual,0,Medium,Medium,Gaziantep - Izmir,Delayed
+681,AnLand,Izmir,Air,1771.81,938,Corporate,1,Heavy,Medium,AnLand - Izmir,On Time
+682,Gaziantep,Adana,Air,447.69,859.2,Individual,0,Light,Medium,Gaziantep - Adana,Delayed
+683,Konya,Istanbul,Land,1430.71,1474.5,Individual,0,Heavy,Medium,Konya - Istanbul,Delayed
+684,Kayseri,Konya,Land,1763.72,313.9,Individual,1,Heavy,Short,Kayseri - Konya,On Time
+685,Kayseri,Istanbul,Air,1463.98,435.4,Individual,1,Heavy,Short,Kayseri - Istanbul,On Time
+686,AnLand,Antalya,Sea,1396.06,402,Corporate,1,Heavy,Short,AnLand - Antalya,On Time
+687,Adana,Kayseri,Land,1506.51,561.8,Corporate,1,Heavy,Short,Adana - Kayseri,On Time
+688,Adana,Gaziantep,Land,932.79,1074.3,Individual,0,Medium,Medium,Adana - Gaziantep,Delayed
+689,Izmir,Bursa,Land,1748.97,266.9,Individual,1,Heavy,Short,Izmir - Bursa,On Time
+690,AnLand,Antalya,Sea,410.86,1742.9,Individual,1,Light,Long,AnLand - Antalya,On Time
+691,Istanbul,Bursa,Land,259.14,629.9,Individual,1,Light,Short,Istanbul - Bursa,On Time
+692,Adana,Bursa,Land,574.59,366.9,Corporate,1,Medium,Short,Adana - Bursa,On Time
+693,Antalya,Gaziantep,Air,1065.5,1367.5,Individual,1,Medium,Medium,Antalya - Gaziantep,On Time
+694,Samsun,AnLand,Land,1023.57,124.3,Individual,1,Medium,Short,Samsun - AnLand,On Time
+695,Istanbul,Izmir,Land,1642.09,1258.9,Individual,1,Heavy,Medium,Istanbul - Izmir,On Time
+696,Konya,Izmir,Air,812.11,1411.5,Individual,1,Medium,Medium,Konya - Izmir,On Time
+697,Antalya,Samsun,Sea,971.27,469.1,Individual,1,Medium,Short,Antalya - Samsun,On Time
+698,Antalya,Bursa,Land,31.67,131.8,Individual,1,Light,Short,Antalya - Bursa,On Time
+699,AnLand,Kayseri,Land,822.43,759.1,Individual,1,Medium,Medium,AnLand - Kayseri,On Time
+700,Izmir,Antalya,Land,1297.31,242.3,Corporate,1,Heavy,Short,Izmir - Antalya,On Time
+701,Konya,AnLand,Land,35.94,277.1,Individual,1,Light,Short,Konya - AnLand,On Time
+702,Adana,Bursa,Air,565.36,545.8,Individual,1,Medium,Short,Adana - Bursa,On Time
+703,AnLand,Gaziantep,Land,419.87,626.2,Corporate,1,Light,Short,AnLand - Gaziantep,On Time
+704,Adana,AnLand,Land,88.76,1083.4,Individual,1,Light,Medium,Adana - AnLand,On Time
+705,AnLand,Bursa,Land,961.12,1372.9,Corporate,0,Medium,Medium,AnLand - Bursa,Delayed
+706,AnLand,Adana,Land,367.54,1205.9,Individual,1,Light,Medium,AnLand - Adana,On Time
+707,AnLand,Konya,Land,1487.45,339.3,Individual,0,Heavy,Short,AnLand - Konya,Delayed
+708,Izmir,Kayseri,Air,1696.62,385.6,Individual,1,Heavy,Short,Izmir - Kayseri,On Time
+709,AnLand,Izmir,Land,1093.44,1763.6,Individual,1,Medium,Long,AnLand - Izmir,On Time
+710,Bursa,Izmir,Air,1963.51,1138.8,Individual,1,Heavy,Medium,Bursa - Izmir,On Time
+711,Samsun,Kayseri,Air,903.7,1746.4,Corporate,1,Medium,Long,Samsun - Kayseri,On Time
+712,Adana,Bursa,Land,1029.17,774.5,Individual,1,Medium,Medium,Adana - Bursa,On Time
+713,Istanbul,Izmir,Land,1978.49,1248.1,Individual,1,Heavy,Medium,Istanbul - Izmir,On Time
+714,Gaziantep,AnLand,Land,466.94,1071.1,Individual,1,Light,Medium,Gaziantep - AnLand,On Time
+715,Konya,Gaziantep,Land,1885.38,672.3,Individual,1,Heavy,Short,Konya - Gaziantep,On Time
+716,Kayseri,Antalya,Land,90.46,966.3,Individual,1,Light,Medium,Kayseri - Antalya,On Time
+717,Izmir,Istanbul,Land,895.54,1029.9,Individual,1,Medium,Medium,Izmir - Istanbul,On Time
+718,Istanbul,Izmir,Land,144.66,441.5,Corporate,1,Light,Short,Istanbul - Izmir,On Time
+719,Antalya,Kayseri,Air,1459.82,664.3,Corporate,1,Heavy,Short,Antalya - Kayseri,On Time
+720,Bursa,Gaziantep,Land,1218.78,1593.2,Individual,1,Heavy,Long,Bursa - Gaziantep,On Time
+721,Kayseri,Bursa,Air,1414.74,1835.8,Individual,1,Heavy,Long,Kayseri - Bursa,On Time
+722,Gaziantep,Konya,Land,752.09,751.6,Corporate,1,Medium,Medium,Gaziantep - Konya,On Time
+723,Istanbul,Kayseri,Air,742.12,648.6,Corporate,1,Medium,Short,Istanbul - Kayseri,On Time
+724,Kayseri,AnLand,Land,95.41,430.6,Individual,0,Light,Short,Kayseri - AnLand,Delayed
+725,Istanbul,Konya,Land,703.14,1373.1,Corporate,1,Medium,Medium,Istanbul - Konya,On Time
+726,Bursa,Antalya,Air,1858.93,680,Individual,1,Heavy,Short,Bursa - Antalya,On Time
+727,Gaziantep,Antalya,Land,761.56,1976.1,Corporate,1,Medium,Long,Gaziantep - Antalya,On Time
+728,Antalya,Adana,Land,1663.58,685.1,Individual,1,Heavy,Short,Antalya - Adana,On Time
+729,AnLand,Samsun,Sea,1685.44,818.6,Individual,1,Heavy,Medium,AnLand - Samsun,On Time
+730,Adana,Kayseri,Land,749.62,1226.5,Corporate,1,Medium,Medium,Adana - Kayseri,On Time
+731,Antalya,Gaziantep,Land,1265.82,1613.3,Individual,1,Heavy,Long,Antalya - Gaziantep,On Time
+732,AnLand,Konya,Air,195.27,965.6,Individual,1,Light,Medium,AnLand - Konya,On Time
+733,Izmir,Samsun,Air,211.84,874.2,Individual,1,Light,Medium,Izmir - Samsun,On Time
+734,Samsun,Bursa,Air,102.07,1991.5,Corporate,1,Light,Long,Samsun - Bursa,On Time
+735,Konya,AnLand,Land,1164.13,70.5,Corporate,1,Medium,Short,Konya - AnLand,On Time
+736,Konya,Adana,Air,855.01,1795.4,Corporate,1,Medium,Long,Konya - Adana,On Time
+737,Adana,Samsun,Land,1098.32,340.8,Individual,1,Medium,Short,Adana - Samsun,On Time
+738,Gaziantep,Istanbul,Air,1044.54,1582.6,Corporate,1,Medium,Long,Gaziantep - Istanbul,On Time
+739,Bursa,Samsun,Sea,703.65,1255,Individual,1,Medium,Medium,Bursa - Samsun,On Time
+740,Gaziantep,Samsun,Air,1356.56,716.6,Individual,1,Heavy,Medium,Gaziantep - Samsun,On Time
+741,Bursa,AnLand,Air,1518.21,1754.1,Corporate,1,Heavy,Long,Bursa - AnLand,On Time
+742,Gaziantep,Izmir,Land,34.18,75.2,Individual,0,Light,Short,Gaziantep - Izmir,Delayed
+743,Samsun,Antalya,Air,418.45,492,Individual,1,Light,Short,Samsun - Antalya,On Time
+744,Izmir,Antalya,Air,1427.91,1155.4,Individual,0,Heavy,Medium,Izmir - Antalya,Delayed
+745,Izmir,Istanbul,Land,776.31,735.5,Individual,1,Medium,Medium,Izmir - Istanbul,On Time
+746,AnLand,Gaziantep,Air,1326.66,1240.2,Corporate,1,Heavy,Medium,AnLand - Gaziantep,On Time
+747,Kayseri,Gaziantep,Land,697.19,97,Individual,1,Medium,Short,Kayseri - Gaziantep,On Time
+748,Izmir,Bursa,Air,784.56,277.1,Corporate,1,Medium,Short,Izmir - Bursa,On Time
+749,Izmir,Konya,Air,321.56,297.8,Individual,1,Light,Short,Izmir - Konya,On Time
+750,Antalya,Kayseri,Air,520.17,419.1,Individual,1,Medium,Short,Antalya - Kayseri,On Time
+751,Antalya,Izmir,Land,1212.8,945.7,Individual,1,Heavy,Medium,Antalya - Izmir,On Time
+752,AnLand,Adana,Land,869.16,1516.7,Corporate,0,Medium,Long,AnLand - Adana,Delayed
+753,Kayseri,AnLand,Land,1549.73,1815.8,Individual,1,Heavy,Long,Kayseri - AnLand,On Time
+754,Adana,Kayseri,Sea,1705.91,1679,Corporate,1,Heavy,Long,Adana - Kayseri,On Time
+755,Antalya,Samsun,Land,1085.58,433.9,Individual,1,Medium,Short,Antalya - Samsun,On Time
+756,Adana,Istanbul,Land,1517.74,910.2,Individual,1,Heavy,Medium,Adana - Istanbul,On Time
+757,Istanbul,Antalya,Air,617.27,438.9,Individual,1,Medium,Short,Istanbul - Antalya,On Time
+758,Antalya,Bursa,Land,832.87,565.7,Corporate,1,Medium,Short,Antalya - Bursa,On Time
+759,Samsun,Gaziantep,Air,1426.99,1031.9,Corporate,0,Heavy,Medium,Samsun - Gaziantep,Delayed
+760,Kayseri,Istanbul,Air,775.49,182.8,Individual,1,Medium,Short,Kayseri - Istanbul,On Time
+761,AnLand,Samsun,Air,1179.07,475.4,Individual,1,Medium,Short,AnLand - Samsun,On Time
+762,Istanbul,Adana,Land,374.82,1874,Individual,1,Light,Long,Istanbul - Adana,On Time
+763,Kayseri,Bursa,Land,1201.54,958.9,Corporate,0,Heavy,Medium,Kayseri - Bursa,Delayed
+764,Samsun,AnLand,Land,1723.72,918.5,Individual,1,Heavy,Medium,Samsun - AnLand,On Time
+765,Kayseri,Antalya,Land,1737.94,78.4,Corporate,1,Heavy,Short,Kayseri - Antalya,On Time
+766,Samsun,Antalya,Land,1450.07,532.4,Corporate,1,Heavy,Short,Samsun - Antalya,On Time
+767,Samsun,Antalya,Land,1492.78,1739.3,Individual,1,Heavy,Long,Samsun - Antalya,On Time
+768,Adana,Istanbul,Air,1118.07,371,Corporate,1,Medium,Short,Adana - Istanbul,On Time
+769,Gaziantep,Istanbul,Air,1171.41,859.5,Individual,1,Medium,Medium,Gaziantep - Istanbul,On Time
+770,Istanbul,Gaziantep,Land,271.63,77.9,Individual,0,Light,Short,Istanbul - Gaziantep,Delayed
+771,Kayseri,Gaziantep,Air,890.5,982.8,Individual,0,Medium,Medium,Kayseri - Gaziantep,Delayed
+772,Bursa,Adana,Sea,904.3,91,Individual,1,Medium,Short,Bursa - Adana,On Time
+773,Istanbul,Bursa,Air,1917.2,1648.2,Corporate,1,Heavy,Long,Istanbul - Bursa,On Time
+774,Gaziantep,AnLand,Air,865.02,1658.5,Individual,1,Medium,Long,Gaziantep - AnLand,On Time
+775,Istanbul,AnLand,Land,1100.94,1586.1,Individual,0,Medium,Long,Istanbul - AnLand,Delayed
+776,Izmir,Samsun,Land,1068.84,602.6,Individual,1,Medium,Short,Izmir - Samsun,On Time
+777,Bursa,Antalya,Land,1275.34,1682.6,Individual,1,Heavy,Long,Bursa - Antalya,On Time
+778,Gaziantep,Bursa,Land,1497.72,1108.8,Individual,1,Heavy,Medium,Gaziantep - Bursa,On Time
+779,Adana,Kayseri,Sea,453.96,778.9,Individual,1,Light,Medium,Adana - Kayseri,On Time
+780,Kayseri,Istanbul,Air,1059.81,1269.4,Individual,1,Medium,Medium,Kayseri - Istanbul,On Time
+781,Konya,Istanbul,Land,1652.71,74.1,Corporate,1,Heavy,Short,Konya - Istanbul,On Time
+782,Gaziantep,Izmir,Land,928.91,328.8,Corporate,1,Medium,Short,Gaziantep - Izmir,On Time
+783,AnLand,Adana,Air,560.52,1497.5,Individual,0,Medium,Medium,AnLand - Adana,Delayed
+784,Kayseri,Antalya,Land,1311.14,526.1,Corporate,1,Heavy,Short,Kayseri - Antalya,On Time
+785,Gaziantep,Antalya,Land,1648.42,1216.1,Individual,1,Heavy,Medium,Gaziantep - Antalya,On Time
+786,Izmir,Antalya,Air,130.96,801,Individual,1,Light,Medium,Izmir - Antalya,On Time
+787,Konya,Istanbul,Land,1554.7,1716.9,Individual,1,Heavy,Long,Konya - Istanbul,On Time
+788,Izmir,Istanbul,Land,1644.19,1907.2,Individual,1,Heavy,Long,Izmir - Istanbul,On Time
+789,Konya,Izmir,Land,925.74,1773,Individual,1,Medium,Long,Konya - Izmir,On Time
+790,AnLand,Kayseri,Air,1966.69,577.7,Corporate,1,Heavy,Short,AnLand - Kayseri,On Time
+791,Kayseri,Bursa,Land,1574.48,428.6,Individual,0,Heavy,Short,Kayseri - Bursa,Delayed
+792,Adana,Antalya,Land,1548.46,975.1,Corporate,1,Heavy,Medium,Adana - Antalya,On Time
+793,Izmir,AnLand,Land,1496.94,64.3,Individual,1,Heavy,Short,Izmir - AnLand,On Time
+794,Izmir,Gaziantep,Land,305.46,100.3,Corporate,1,Light,Short,Izmir - Gaziantep,On Time
+795,Samsun,AnLand,Land,438.38,1128.9,Individual,1,Light,Medium,Samsun - AnLand,On Time
+796,Konya,Samsun,Air,930.66,1064.9,Individual,1,Medium,Medium,Konya - Samsun,On Time
+797,Antalya,AnLand,Land,531.69,1989.4,Individual,0,Medium,Long,Antalya - AnLand,Delayed
+798,Kayseri,Samsun,Air,833.41,443.6,Individual,1,Medium,Short,Kayseri - Samsun,On Time
+799,Konya,AnLand,Land,1777.49,553.3,Individual,1,Heavy,Short,Konya - AnLand,On Time
+800,Samsun,Gaziantep,Land,1649.53,271.4,Corporate,0,Heavy,Short,Samsun - Gaziantep,Delayed
+801,Istanbul,AnLand,Land,1261.93,1839.2,Individual,1,Heavy,Long,Istanbul - AnLand,On Time
+802,Konya,AnLand,Land,1716.95,1566.7,Corporate,1,Heavy,Long,Konya - AnLand,On Time
+803,Adana,Bursa,Land,1568.63,1653.6,Individual,1,Heavy,Long,Adana - Bursa,On Time
+804,Kayseri,Bursa,Land,860.82,1810.4,Corporate,1,Medium,Long,Kayseri - Bursa,On Time
+805,Samsun,Konya,Land,406.12,1073.6,Individual,1,Light,Medium,Samsun - Konya,On Time
+806,Istanbul,Bursa,Air,1030.83,929.8,Individual,1,Medium,Medium,Istanbul - Bursa,On Time
+807,Bursa,AnLand,Land,1473.78,694.3,Corporate,1,Heavy,Short,Bursa - AnLand,On Time
+808,Samsun,Kayseri,Air,875.66,1199,Individual,1,Medium,Medium,Samsun - Kayseri,On Time
+809,Bursa,Konya,Sea,1335.21,935.8,Individual,1,Heavy,Medium,Bursa - Konya,On Time
+810,Kayseri,Gaziantep,Land,193.18,930.6,Individual,1,Light,Medium,Kayseri - Gaziantep,On Time
+811,Izmir,AnLand,Land,1497.27,1877,Individual,1,Heavy,Long,Izmir - AnLand,On Time
+812,Samsun,Antalya,Land,1626.36,1968.9,Individual,0,Heavy,Long,Samsun - Antalya,Delayed
+813,AnLand,Istanbul,Land,1415.14,1603.1,Corporate,1,Heavy,Long,AnLand - Istanbul,On Time
+814,Bursa,Konya,Land,1934.69,1525.7,Individual,1,Heavy,Long,Bursa - Konya,On Time
+815,Adana,Gaziantep,Air,1654.17,1377.1,Individual,1,Heavy,Medium,Adana - Gaziantep,On Time
+816,AnLand,Adana,Land,1806.67,373.8,Individual,1,Heavy,Short,AnLand - Adana,On Time
+817,Gaziantep,Antalya,Land,1867.47,165.3,Individual,0,Heavy,Short,Gaziantep - Antalya,Delayed
+818,Gaziantep,Adana,Air,1603.69,1396.9,Individual,1,Heavy,Medium,Gaziantep - Adana,On Time
+819,Istanbul,AnLand,Land,1350.15,1471.1,Corporate,1,Heavy,Medium,Istanbul - AnLand,On Time
+820,Izmir,Istanbul,Air,16.41,141.6,Individual,1,Light,Short,Izmir - Istanbul,On Time
+821,Kayseri,Konya,Land,934.32,1859.7,Corporate,1,Medium,Long,Kayseri - Konya,On Time
+822,Samsun,Konya,Land,1144.47,227.7,Individual,1,Medium,Short,Samsun - Konya,On Time
+823,Antalya,Kayseri,Land,611.54,607.5,Individual,1,Medium,Short,Antalya - Kayseri,On Time
+824,Adana,Kayseri,Land,639.62,1361.2,Individual,1,Medium,Medium,Adana - Kayseri,On Time
+825,Bursa,AnLand,Sea,1922.51,381.3,Individual,1,Heavy,Short,Bursa - AnLand,On Time
+826,Kayseri,AnLand,Land,1783.96,158.1,Individual,1,Heavy,Short,Kayseri - AnLand,On Time
+827,AnLand,Istanbul,Sea,1699.11,695.7,Individual,1,Heavy,Short,AnLand - Istanbul,On Time
+828,Gaziantep,Kayseri,Land,814.99,1543.6,Corporate,1,Medium,Long,Gaziantep - Kayseri,On Time
+829,Adana,Gaziantep,Land,32.33,856.7,Individual,0,Light,Medium,Adana - Gaziantep,Delayed
+830,Antalya,Gaziantep,Land,165.04,1323.3,Corporate,1,Light,Medium,Antalya - Gaziantep,On Time
+831,Samsun,Istanbul,Land,627.83,1180.3,Individual,1,Medium,Medium,Samsun - Istanbul,On Time
+832,Istanbul,Gaziantep,Sea,36.41,93.3,Corporate,1,Light,Short,Istanbul - Gaziantep,On Time
+833,Antalya,Samsun,Land,39.21,1977.7,Corporate,1,Light,Long,Antalya - Samsun,On Time
+834,Adana,Bursa,Land,1833.62,130.8,Individual,0,Heavy,Short,Adana - Bursa,Delayed
+835,Antalya,Istanbul,Land,1413.79,1937.2,Corporate,1,Heavy,Long,Antalya - Istanbul,On Time
+836,Adana,Istanbul,Land,621.37,1122.2,Individual,1,Medium,Medium,Adana - Istanbul,On Time
+837,Adana,Izmir,Land,269.63,1928.2,Corporate,1,Light,Long,Adana - Izmir,On Time
+838,Konya,Antalya,Land,1025.71,273.8,Individual,1,Medium,Short,Konya - Antalya,On Time
+839,Bursa,Antalya,Air,15.67,1006.3,Individual,1,Light,Medium,Bursa - Antalya,On Time
+840,Gaziantep,Samsun,Land,1877.14,380.5,Corporate,1,Heavy,Short,Gaziantep - Samsun,On Time
+841,Konya,Kayseri,Land,832.56,149.4,Individual,1,Medium,Short,Konya - Kayseri,On Time
+842,Samsun,AnLand,Land,807.66,1254.2,Individual,1,Medium,Medium,Samsun - AnLand,On Time
+843,Konya,AnLand,Land,784.23,455.2,Corporate,1,Medium,Short,Konya - AnLand,On Time
+844,Izmir,Adana,Sea,143.31,1196,Individual,1,Light,Medium,Izmir - Adana,On Time
+845,Izmir,Samsun,Land,1278.45,269.1,Individual,1,Heavy,Short,Izmir - Samsun,On Time
+846,Gaziantep,Istanbul,Land,1467.34,697.4,Individual,1,Heavy,Short,Gaziantep - Istanbul,On Time
+847,Antalya,Samsun,Air,1353.87,1574.2,Individual,1,Heavy,Long,Antalya - Samsun,On Time
+848,Bursa,Samsun,Land,281.18,902.3,Corporate,1,Light,Medium,Bursa - Samsun,On Time
+849,Gaziantep,Samsun,Land,1159.79,1274.1,Individual,1,Medium,Medium,Gaziantep - Samsun,On Time
+850,Adana,Antalya,Sea,1141.12,1312.5,Individual,1,Medium,Medium,Adana - Antalya,On Time
+851,AnLand,Samsun,Air,1737.48,1695.3,Individual,0,Heavy,Long,AnLand - Samsun,Delayed
+852,Bursa,Samsun,Sea,761.36,683.6,Corporate,0,Medium,Short,Bursa - Samsun,Delayed
+853,Bursa,AnLand,Land,746.11,1390.2,Individual,1,Medium,Medium,Bursa - AnLand,On Time
+854,Adana,Gaziantep,Land,1238.96,1925.2,Individual,1,Heavy,Long,Adana - Gaziantep,On Time
+855,Adana,Bursa,Land,1267.98,1474,Corporate,1,Heavy,Medium,Adana - Bursa,On Time
+856,Istanbul,Adana,Land,941.22,1005.2,Individual,1,Medium,Medium,Istanbul - Adana,On Time
+857,Gaziantep,Izmir,Air,888.9,1279.9,Individual,1,Medium,Medium,Gaziantep - Izmir,On Time
+858,Adana,AnLand,Land,990.82,1492.4,Individual,1,Medium,Medium,Adana - AnLand,On Time
+859,Izmir,AnLand,Air,1722.79,1243.9,Individual,0,Heavy,Medium,Izmir - AnLand,Delayed
+860,Samsun,AnLand,Air,925.03,82.5,Individual,1,Medium,Short,Samsun - AnLand,On Time
+861,AnLand,Samsun,Land,1880.16,429.8,Individual,1,Heavy,Short,AnLand - Samsun,On Time
+862,Gaziantep,Konya,Land,1010.49,1630.4,Corporate,1,Medium,Long,Gaziantep - Konya,On Time
+863,Kayseri,Izmir,Air,1898.66,581.7,Individual,1,Heavy,Short,Kayseri - Izmir,On Time
+864,Izmir,Istanbul,Land,1666.5,1476.5,Corporate,1,Heavy,Medium,Izmir - Istanbul,On Time
+865,Antalya,Gaziantep,Air,728.05,775.6,Individual,1,Medium,Medium,Antalya - Gaziantep,On Time
+866,Adana,Gaziantep,Land,1727.96,1067.7,Corporate,1,Heavy,Medium,Adana - Gaziantep,On Time
+867,Kayseri,Konya,Land,224.58,182.5,Corporate,1,Light,Short,Kayseri - Konya,On Time
+868,Adana,Samsun,Land,1850.47,403.4,Individual,1,Heavy,Short,Adana - Samsun,On Time
+869,Bursa,Antalya,Sea,1265.13,1916.5,Individual,1,Heavy,Long,Bursa - Antalya,On Time
+870,Izmir,Istanbul,Land,113.51,1785.8,Individual,1,Light,Long,Izmir - Istanbul,On Time
+871,Bursa,Kayseri,Air,1290.29,1321.9,Corporate,1,Heavy,Medium,Bursa - Kayseri,On Time
+872,Istanbul,Konya,Land,1948.62,946.3,Corporate,1,Heavy,Medium,Istanbul - Konya,On Time
+873,Bursa,Antalya,Air,144.25,1367.7,Individual,0,Light,Medium,Bursa - Antalya,Delayed
+874,Istanbul,Izmir,Air,1111.6,1256.3,Individual,1,Medium,Medium,Istanbul - Izmir,On Time
+875,Istanbul,Samsun,Land,1496.85,1158.7,Individual,0,Heavy,Medium,Istanbul - Samsun,Delayed
+876,Kayseri,Istanbul,Land,1621.47,165.4,Corporate,0,Heavy,Short,Kayseri - Istanbul,Delayed
+877,Adana,Istanbul,Air,830.59,1284,Individual,1,Medium,Medium,Adana - Istanbul,On Time
+878,Antalya,Istanbul,Land,412.31,1549.4,Individual,1,Light,Long,Antalya - Istanbul,On Time
+879,Bursa,Izmir,Air,89.47,1988.5,Individual,0,Light,Long,Bursa - Izmir,Delayed
+880,Izmir,Adana,Land,1161.55,71.6,Individual,1,Medium,Short,Izmir - Adana,On Time
+881,Istanbul,Kayseri,Air,908.56,1473.8,Corporate,1,Medium,Medium,Istanbul - Kayseri,On Time
+882,Adana,Izmir,Air,1897.75,1165,Individual,0,Heavy,Medium,Adana - Izmir,Delayed
+883,AnLand,Gaziantep,Sea,125.91,896.4,Individual,1,Light,Medium,AnLand - Gaziantep,On Time
+884,Gaziantep,Kayseri,Land,1372.36,298.8,Individual,1,Heavy,Short,Gaziantep - Kayseri,On Time
+885,Kayseri,AnLand,Land,54.81,847.7,Individual,1,Light,Medium,Kayseri - AnLand,On Time
+886,Antalya,Samsun,Land,347.01,741,Individual,1,Light,Medium,Antalya - Samsun,On Time
+887,Konya,Izmir,Land,909.89,640.5,Corporate,1,Medium,Short,Konya - Izmir,On Time
+888,Kayseri,Antalya,Land,912.47,1475.2,Corporate,1,Medium,Medium,Kayseri - Antalya,On Time
+889,AnLand,Kayseri,Land,1372.97,1416.4,Individual,1,Heavy,Medium,AnLand - Kayseri,On Time
+890,Gaziantep,Bursa,Air,1820.88,1198.6,Individual,1,Heavy,Medium,Gaziantep - Bursa,On Time
+891,AnLand,Istanbul,Land,1279.87,1880.4,Corporate,1,Heavy,Long,AnLand - Istanbul,On Time
+892,Bursa,Adana,Land,1907.3,732.2,Individual,1,Heavy,Medium,Bursa - Adana,On Time
+893,Istanbul,Antalya,Air,1763.82,525.4,Individual,1,Heavy,Short,Istanbul - Antalya,On Time
+894,Antalya,Kayseri,Land,1171.08,1329,Corporate,1,Medium,Medium,Antalya - Kayseri,On Time
+895,Samsun,Kayseri,Land,1668.41,437.7,Corporate,1,Heavy,Short,Samsun - Kayseri,On Time
+896,Istanbul,Antalya,Sea,1286.94,664.3,Corporate,1,Heavy,Short,Istanbul - Antalya,On Time
+897,Samsun,AnLand,Sea,161.72,488,Corporate,0,Light,Short,Samsun - AnLand,Delayed
+898,Gaziantep,Antalya,Land,1482.43,184.8,Corporate,1,Heavy,Short,Gaziantep - Antalya,On Time
+899,Adana,Bursa,Land,194.34,1663.6,Individual,1,Light,Long,Adana - Bursa,On Time
+900,Konya,Gaziantep,Air,1190.2,546.4,Individual,1,Medium,Short,Konya - Gaziantep,On Time
+901,Izmir,Adana,Land,1406.77,972.4,Individual,1,Heavy,Medium,Izmir - Adana,On Time
+902,Istanbul,AnLand,Land,137.72,134.5,Individual,1,Light,Short,Istanbul - AnLand,On Time
+903,Antalya,Adana,Land,465.44,1413.7,Individual,1,Light,Medium,Antalya - Adana,On Time
+904,AnLand,Konya,Land,1831.77,694.6,Individual,1,Heavy,Short,AnLand - Konya,On Time
+905,Antalya,Konya,Land,1234.55,1502.2,Individual,1,Heavy,Long,Antalya - Konya,On Time
+906,Gaziantep,Antalya,Land,496.34,854.2,Individual,1,Light,Medium,Gaziantep - Antalya,On Time
+907,Samsun,Kayseri,Air,1382.91,431.7,Individual,1,Heavy,Short,Samsun - Kayseri,On Time
+908,AnLand,Bursa,Sea,1195.57,1050.7,Individual,1,Medium,Medium,AnLand - Bursa,On Time
+909,Izmir,Antalya,Land,1005.64,304.5,Individual,0,Medium,Short,Izmir - Antalya,Delayed
+910,Izmir,Bursa,Air,1952.49,909.1,Corporate,1,Heavy,Medium,Izmir - Bursa,On Time
+911,Istanbul,Antalya,Air,1368.49,668.7,Individual,1,Heavy,Short,Istanbul - Antalya,On Time
+912,Gaziantep,Adana,Land,754.01,1828.3,Individual,1,Medium,Long,Gaziantep - Adana,On Time
+913,Adana,Izmir,Land,1601.15,168.8,Corporate,0,Heavy,Short,Adana - Izmir,Delayed
+914,Gaziantep,AnLand,Air,1769.74,1403.3,Individual,1,Heavy,Medium,Gaziantep - AnLand,On Time
+915,Samsun,Bursa,Land,254.82,406.4,Individual,0,Light,Short,Samsun - Bursa,Delayed
+916,Antalya,Istanbul,Air,405.1,672.1,Individual,1,Light,Short,Antalya - Istanbul,On Time
+917,Izmir,Bursa,Land,436.37,860.3,Individual,1,Light,Medium,Izmir - Bursa,On Time
+918,Antalya,Izmir,Sea,1383.97,1820.6,Corporate,1,Heavy,Long,Antalya - Izmir,On Time
+919,Antalya,Gaziantep,Land,1208.06,523,Individual,1,Heavy,Short,Antalya - Gaziantep,On Time
+920,Antalya,Kayseri,Land,1239.89,228.1,Individual,1,Heavy,Short,Antalya - Kayseri,On Time
+921,Izmir,Bursa,Air,1881.84,671.4,Individual,1,Heavy,Short,Izmir - Bursa,On Time
+922,Kayseri,AnLand,Land,1552.94,254.1,Individual,1,Heavy,Short,Kayseri - AnLand,On Time
+923,Bursa,AnLand,Land,260.23,300.8,Individual,0,Light,Short,Bursa - AnLand,Delayed
+924,Samsun,Istanbul,Land,698.28,1169,Individual,1,Medium,Medium,Samsun - Istanbul,On Time
+925,Kayseri,Bursa,Land,873.61,168.8,Individual,0,Medium,Short,Kayseri - Bursa,Delayed
+926,Samsun,Kayseri,Land,794.94,110.3,Individual,1,Medium,Short,Samsun - Kayseri,On Time
+927,AnLand,Samsun,Sea,1340.27,1443.1,Individual,1,Heavy,Medium,AnLand - Samsun,On Time
+928,Gaziantep,Konya,Land,1784.33,755.2,Individual,0,Heavy,Medium,Gaziantep - Konya,Delayed
+929,Gaziantep,Kayseri,Air,615.57,294.5,Individual,1,Medium,Short,Gaziantep - Kayseri,On Time
+930,Konya,AnLand,Air,1105.99,544.5,Corporate,1,Medium,Short,Konya - AnLand,On Time
+931,Gaziantep,Konya,Sea,1579.87,1302.1,Individual,1,Heavy,Medium,Gaziantep - Konya,On Time
+932,Izmir,Gaziantep,Land,835.36,587.3,Individual,1,Medium,Short,Izmir - Gaziantep,On Time
+933,Adana,Istanbul,Air,340.4,1014.3,Individual,1,Light,Medium,Adana - Istanbul,On Time
+934,Istanbul,Kayseri,Land,952.53,287.3,Individual,1,Medium,Short,Istanbul - Kayseri,On Time
+935,Konya,Kayseri,Air,115.17,1196.8,Corporate,1,Light,Medium,Konya - Kayseri,On Time
+936,Istanbul,Gaziantep,Air,1885.05,666.4,Individual,0,Heavy,Short,Istanbul - Gaziantep,Delayed
+937,Samsun,Bursa,Air,154.27,1272.6,Corporate,1,Light,Medium,Samsun - Bursa,On Time
+938,Istanbul,Bursa,Land,879.72,1626.4,Individual,0,Medium,Long,Istanbul - Bursa,Delayed
+939,Istanbul,Bursa,Air,1062.11,1242.7,Corporate,1,Medium,Medium,Istanbul - Bursa,On Time
+940,Konya,Adana,Land,1970.68,626.7,Individual,1,Heavy,Short,Konya - Adana,On Time
+941,AnLand,Konya,Air,336.21,548.7,Corporate,1,Light,Short,AnLand - Konya,On Time
+942,Antalya,Adana,Sea,233.29,688.5,Individual,1,Light,Short,Antalya - Adana,On Time
+943,Gaziantep,Istanbul,Land,22.37,371,Individual,0,Light,Short,Gaziantep - Istanbul,Delayed
+944,Gaziantep,Bursa,Sea,315.37,403.3,Individual,1,Light,Short,Gaziantep - Bursa,On Time
+945,Izmir,Kayseri,Land,418.51,1591.8,Individual,1,Light,Long,Izmir - Kayseri,On Time
+946,Konya,Istanbul,Land,1263.01,800.2,Corporate,1,Heavy,Medium,Konya - Istanbul,On Time
+947,Izmir,Adana,Land,443.32,900.2,Individual,1,Light,Medium,Izmir - Adana,On Time
+948,Adana,Izmir,Land,45.94,1208.4,Individual,0,Light,Medium,Adana - Izmir,Delayed
+949,Adana,Antalya,Air,1654.1,1199.8,Individual,0,Heavy,Medium,Adana - Antalya,Delayed
+950,Izmir,Adana,Land,734.36,181.4,Individual,1,Medium,Short,Izmir - Adana,On Time
+951,Konya,Samsun,Land,710.62,1671.5,Individual,1,Medium,Long,Konya - Samsun,On Time
+952,Izmir,Kayseri,Sea,608.45,395.8,Individual,1,Medium,Short,Izmir - Kayseri,On Time
+953,Gaziantep,Samsun,Air,1950.87,1460,Individual,1,Heavy,Medium,Gaziantep - Samsun,On Time
+954,Kayseri,AnLand,Air,344.38,1556.7,Corporate,0,Light,Long,Kayseri - AnLand,Delayed
+955,Bursa,Gaziantep,Air,1796.98,1444.1,Individual,1,Heavy,Medium,Bursa - Gaziantep,On Time
+956,Istanbul,Kayseri,Air,1554.72,1179,Individual,1,Heavy,Medium,Istanbul - Kayseri,On Time
+957,Bursa,Samsun,Land,157.58,78.5,Corporate,1,Light,Short,Bursa - Samsun,On Time
+958,Konya,Kayseri,Land,1973.52,752.7,Individual,0,Heavy,Medium,Konya - Kayseri,Delayed
+959,Bursa,Gaziantep,Air,546.38,1229.4,Individual,1,Medium,Medium,Bursa - Gaziantep,On Time
+960,Adana,Gaziantep,Land,201.67,805.5,Individual,1,Light,Medium,Adana - Gaziantep,On Time
+961,Samsun,Istanbul,Air,1659.48,1733.8,Individual,1,Heavy,Long,Samsun - Istanbul,On Time
+962,Istanbul,Kayseri,Land,1414.82,652.2,Individual,1,Heavy,Short,Istanbul - Kayseri,On Time
+963,Antalya,Konya,Land,1236.35,622.4,Corporate,1,Heavy,Short,Antalya - Konya,On Time
+964,Konya,Bursa,Land,316.18,568.7,Individual,1,Light,Short,Konya - Bursa,On Time
+965,Istanbul,AnLand,Air,959.6,698.9,Individual,1,Medium,Short,Istanbul - AnLand,On Time
+966,Bursa,Gaziantep,Land,1562.21,1136.9,Corporate,1,Heavy,Medium,Bursa - Gaziantep,On Time
+967,Adana,Izmir,Air,610.73,1428.7,Corporate,1,Medium,Medium,Adana - Izmir,On Time
+968,AnLand,Bursa,Land,626.82,1342,Individual,1,Medium,Medium,AnLand - Bursa,On Time
+969,Kayseri,Konya,Land,11.27,1625,Individual,1,Light,Long,Kayseri - Konya,On Time
+970,Antalya,Kayseri,Air,352.62,1777.5,Individual,1,Light,Long,Antalya - Kayseri,On Time
+971,Kayseri,Samsun,Air,1751.43,1641.4,Corporate,1,Heavy,Long,Kayseri - Samsun,On Time
+972,Istanbul,AnLand,Land,886.28,86.9,Corporate,1,Medium,Short,Istanbul - AnLand,On Time
+973,Adana,Izmir,Air,1968.55,1485,Individual,0,Heavy,Medium,Adana - Izmir,Delayed
+974,Adana,Bursa,Land,794.44,456.4,Individual,1,Medium,Short,Adana - Bursa,On Time
+975,Bursa,Kayseri,Land,1431.8,309.2,Individual,1,Heavy,Short,Bursa - Kayseri,On Time
+976,Gaziantep,Istanbul,Land,567.43,1295.1,Corporate,1,Medium,Medium,Gaziantep - Istanbul,On Time
+977,Bursa,Konya,Air,730.8,673.5,Individual,1,Medium,Short,Bursa - Konya,On Time
+978,Gaziantep,AnLand,Air,385.5,161.4,Individual,1,Light,Short,Gaziantep - AnLand,On Time
+979,Gaziantep,Antalya,Land,697.39,318.4,Corporate,1,Medium,Short,Gaziantep - Antalya,On Time
+980,Antalya,Istanbul,Air,1096.74,51.8,Individual,1,Medium,Short,Antalya - Istanbul,On Time
+981,Bursa,Izmir,Land,1983.59,1811.3,Individual,1,Heavy,Long,Bursa - Izmir,On Time
+982,AnLand,Bursa,Land,1330.08,98,Individual,1,Heavy,Short,AnLand - Bursa,On Time
+983,Izmir,Istanbul,Land,402.5,458.4,Individual,1,Light,Short,Izmir - Istanbul,On Time
+984,Izmir,Konya,Land,94.7,861.7,Individual,1,Light,Medium,Izmir - Konya,On Time
+985,Bursa,Antalya,Land,257.08,745.3,Individual,1,Light,Medium,Bursa - Antalya,On Time
+986,Bursa,Istanbul,Land,1127.3,1827.9,Individual,1,Medium,Long,Bursa - Istanbul,On Time
+987,Kayseri,Adana,Air,1531.49,128.6,Corporate,1,Heavy,Short,Kayseri - Adana,On Time
+988,Antalya,Konya,Land,1881.14,1048.8,Individual,0,Heavy,Medium,Antalya - Konya,Delayed
+989,Bursa,Izmir,Land,36.57,1376.9,Individual,1,Light,Medium,Bursa - Izmir,On Time
+990,Kayseri,Konya,Land,1047.91,1866.8,Individual,1,Medium,Long,Kayseri - Konya,On Time
+991,Gaziantep,Kayseri,Land,944.38,1259.7,Corporate,1,Medium,Medium,Gaziantep - Kayseri,On Time
+992,Adana,Samsun,Land,1313.83,1617.3,Corporate,0,Heavy,Long,Adana - Samsun,Delayed
+993,Adana,Samsun,Air,1121.36,213.3,Individual,1,Medium,Short,Adana - Samsun,On Time
+994,Gaziantep,Samsun,Land,1375.64,802.6,Individual,1,Heavy,Medium,Gaziantep - Samsun,On Time
+995,Konya,AnLand,Air,1317.87,779.2,Individual,0,Heavy,Medium,Konya - AnLand,Delayed
+996,Kayseri,Izmir,Air,238.44,1778.3,Individual,0,Light,Long,Kayseri - Izmir,Delayed
+997,Kayseri,Konya,Land,1600.44,345.2,Individual,1,Heavy,Short,Kayseri - Konya,On Time
+998,Gaziantep,Antalya,Air,250.85,346.2,Corporate,1,Light,Short,Gaziantep - Antalya,On Time
+999,AnLand,Antalya,Land,1398.57,690.7,Corporate,1,Heavy,Short,AnLand - Antalya,On Time
+1000,Samsun,Izmir,Air,835.21,156.2,Individual,1,Medium,Short,Samsun - Izmir,On Time
